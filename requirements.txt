@@ -1,0 +1,15 @@
+torch>=2.5
+torchaudio>=2.5
+torchvision>=0.20
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+soundfile
+soxr
+pyyaml
+tqdm
+thop
+jupyter

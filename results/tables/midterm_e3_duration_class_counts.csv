@@ -1,0 +1,23 @@
+macro_class,ngắn (≤5 s),vừa (>5–15 s),dài (>15 s)
+Bells,0,0,11
+Birds,4,1,4
+Cat fights and moans,0,3,5
+Chicken coop,5,3,1
+Cicadas and crickets,2,3,6
+Crows seagulls and magpies,2,2,13
+Dog barkings and howlings,6,4,1
+Glass breaking,2,3,12
+Horn,8,0,0
+Jet aircrafts,0,3,12
+Lawn mower brush cutter and olive shaker,0,0,18
+Music,0,0,150
+Propeller aircrafts,0,5,10
+Sirens and alarms,7,4,6
+Thunder fireworks and gunshot,22,2,11
+Train,0,4,7
+Vacuum cleaner fan and hairdryer,0,5,10
+Vehicle idling,2,6,9
+Vehicle pass-by,15,16,3
+Voices,231,53,1
+Wind turbine,0,15,0
+Workshop,3,8,19

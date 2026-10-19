@@ -1,0 +1,6 @@
+{
+  "{\"audio\": {\"duration_s\": 5.0, \"eval_crop\": \"center\", \"pad_mode\": \"zero\", \"sample_rate\": 22050, \"train_crop\": \"random\"}, \"features\": {\"f_max\": 11025.0, \"f_min\": 20.0, \"hop_length\": 512, \"log\": \"db\", \"n_fft\": 1024, \"n_mels\": 64, \"normalize\": \"global_train\", \"power\": 2.0, \"top_db\": 80.0, \"win_length\": 1024, \"window\": \"hann\"}, \"train_split_md5\": \"3a8e5c134ca34e8da2671c9921a00871\"}": {
+    "mean": -33.74842858571775,
+    "std": 23.133537882431003
+  }
+}

@@ -1,0 +1,11 @@
+,,cosine
+Jet aircrafts,Propeller aircrafts,0.99212474
+Propeller aircrafts,Train,0.987751
+Glass breaking,Workshop,0.98173815
+Jet aircrafts,Train,0.97649527
+Train,Vehicle pass-by,0.9636404
+Propeller aircrafts,Vehicle pass-by,0.96276003
+Glass breaking,Horn,0.9417019
+Jet aircrafts,Vehicle pass-by,0.93888164
+Train,Wind turbine,0.93246526
+Horn,Workshop,0.9265428

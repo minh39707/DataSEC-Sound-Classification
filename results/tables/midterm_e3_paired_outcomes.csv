@@ -1,0 +1,4 @@
+group,n,both_correct,only_CNN_correct,only_CRNN_correct,both_wrong,delta_F1_CRNN_minus_CNN
+ngắn (≤5 s),309,298,4,3,4,-0.0035132621916924567
+vừa (>5–15 s),140,115,12,4,9,-0.1174433591100259
+dài (>15 s),309,258,25,6,20,-0.08384896406821096

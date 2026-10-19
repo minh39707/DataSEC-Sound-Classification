@@ -1,0 +1,759 @@
+sample_id,path,macro_class,subclass,duration
+Airplanes-0005,Propeller aircrafts/Airplanes/Airplanes-0005.wav,Propeller aircrafts,Airplanes,25.10770975056689
+Airplanes-0008,Propeller aircrafts/Airplanes/Airplanes-0008.wav,Propeller aircrafts,Airplanes,15.086802721088436
+Airplanes-0014,Propeller aircrafts/Airplanes/Airplanes-0014.wav,Propeller aircrafts,Airplanes,34.065011337868484
+Airplanes-0021,Propeller aircrafts/Airplanes/Airplanes-0021.wav,Propeller aircrafts,Airplanes,52.08766439909297
+Airplanes-0022,Propeller aircrafts/Airplanes/Airplanes-0022.wav,Propeller aircrafts,Airplanes,26.83430839002268
+Airplanes-0031,Propeller aircrafts/Airplanes/Airplanes-0031.wav,Propeller aircrafts,Airplanes,35.92399092970521
+Airplanes-0046,Propeller aircrafts/Airplanes/Airplanes-0046.wav,Propeller aircrafts,Airplanes,8.807755102040817
+Airplanes-0048,Propeller aircrafts/Airplanes/Airplanes-0048.wav,Propeller aircrafts,Airplanes,22.185532879818595
+Alarms-0009,Sirens and alarms/Alarms/Alarms-0009.wav,Sirens and alarms,Alarms,19.14344671201814
+Alarms-0012,Sirens and alarms/Alarms/Alarms-0012.wav,Sirens and alarms,Alarms,56.39945578231293
+Alarms-0015,Sirens and alarms/Alarms/Alarms-0015.wav,Sirens and alarms,Alarms,5.0
+Alarms-0017,Sirens and alarms/Alarms/Alarms-0017.wav,Sirens and alarms,Alarms,71.57009070294785
+Alarms-0023,Sirens and alarms/Alarms/Alarms-0023.wav,Sirens and alarms,Alarms,1.91297052154195
+Alarms-0028,Sirens and alarms/Alarms/Alarms-0028.wav,Sirens and alarms,Alarms,5.0
+Bells-0003,Bells/Bells-0003.wav,Bells,Bells,52.46802721088435
+Bells-0006,Bells/Bells-0006.wav,Bells,Bells,29.08843537414966
+Bells-0017,Bells/Bells-0017.wav,Bells,Bells,29.66312925170068
+Bells-0018,Bells/Bells-0018.wav,Bells,Bells,30.838639455782317
+Bells-0035,Bells/Bells-0035.wav,Bells,Bells,28.9578231292517
+Bells-0038,Bells/Bells-0038.wav,Bells,Bells,37.34312925170068
+Bells-0039,Bells/Bells-0039.wav,Bells,Bells,30.472925170068027
+Bells-0051,Bells/Bells-0051.wav,Bells,Bells,3.3284580498866214
+Bells-0055,Bells/Bells-0055.wav,Bells,Bells,3.109750566893424
+Bells-0064,Bells/Bells-0064.wav,Bells,Bells,2.9839909297052154
+Birds-0001,Birds/Birds-0001.wav,Birds,Birds,5.0
+Birds-0005,Birds/Birds-0005.wav,Birds,Birds,5.0
+Birds-0013,Birds/Birds-0013.wav,Birds,Birds,10.344013605442177
+Birds-0014,Birds/Birds-0014.wav,Birds,Birds,5.0
+Birds-0017,Birds/Birds-0017.wav,Birds,Birds,5.0
+Birds-0037,Birds/Birds-0037.wav,Birds,Birds,5.0
+Birds-0042,Birds/Birds-0042.wav,Birds,Birds,19.213015873015877
+Birds-0043,Birds/Birds-0043.wav,Birds,Birds,5.473741496598639
+Birds-0044,Birds/Birds-0044.wav,Birds,Birds,27.441043083900222
+Birds-0056,Birds/Birds-0056.wav,Birds,Birds,18.119274376417238
+Birds-0062,Birds/Birds-0062.wav,Birds,Birds,25.802380952380958
+Brush cutter-0013,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0013.wav,Lawn mower brush cutter and olive shaker,Brush cutter,59.31428571428572
+Brush cutter-0014,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0014.wav,Lawn mower brush cutter and olive shaker,Brush cutter,59.31428571428572
+Brush cutter-0023,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0023.wav,Lawn mower brush cutter and olive shaker,Brush cutter,59.31428571428572
+Brush cutter-0028,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0028.wav,Lawn mower brush cutter and olive shaker,Brush cutter,59.31469387755102
+Brush cutter-0032,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0032.wav,Lawn mower brush cutter and olive shaker,Brush cutter,59.31428571428572
+Brush cutter-0040,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0040.wav,Lawn mower brush cutter and olive shaker,Brush cutter,32.35507936507936
+Brush cutter-0048,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0048.wav,Lawn mower brush cutter and olive shaker,Brush cutter,38.4018820861678
+Brush cutter-0055,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0055.wav,Lawn mower brush cutter and olive shaker,Brush cutter,16.10934240362812
+Brush cutter-0057,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0057.wav,Lawn mower brush cutter and olive shaker,Brush cutter,7.233582766439909
+Brush cutter-0060,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0060.wav,Lawn mower brush cutter and olive shaker,Brush cutter,20.31648526077097
+Brush cutter-0066,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0066.wav,Lawn mower brush cutter and olive shaker,Brush cutter,30.036666666666665
+Brush cutter-0071,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0071.wav,Lawn mower brush cutter and olive shaker,Brush cutter,18.84258503401361
+Brush cutter-0077,Lawn mower brush cutter and olive shaker/Brush cutter/Brush cutter-0077.wav,Lawn mower brush cutter and olive shaker,Brush cutter,43.8315873015873
+Cat fights and moans-0012,Cat fights and moans/Cat fights and moans-0012.wav,Cat fights and moans,Cat fights and moans,23.154807256235827
+Cat fights and moans-0022,Cat fights and moans/Cat fights and moans-0022.wav,Cat fights and moans,Cat fights and moans,64.65122448979592
+Cat fights and moans-0026,Cat fights and moans/Cat fights and moans-0026.wav,Cat fights and moans,Cat fights and moans,11.243401360544215
+Cat fights and moans-0033,Cat fights and moans/Cat fights and moans-0033.wav,Cat fights and moans,Cat fights and moans,11.85716553287982
+Cat fights and moans-0036,Cat fights and moans/Cat fights and moans-0036.wav,Cat fights and moans,Cat fights and moans,20.15496598639456
+Cat fights and moans-0044,Cat fights and moans/Cat fights and moans-0044.wav,Cat fights and moans,Cat fights and moans,6.62156462585034
+Cat fights and moans-0046,Cat fights and moans/Cat fights and moans-0046.wav,Cat fights and moans,Cat fights and moans,58.21417233560091
+Cat fights and moans-0049,Cat fights and moans/Cat fights and moans-0049.wav,Cat fights and moans,Cat fights and moans,52.61873015873016
+Chicken coop-0009,Chicken coop/Chicken coop-0009.wav,Chicken coop,Chicken coop,15.048526077097506
+Chicken coop-0012,Chicken coop/Chicken coop-0012.wav,Chicken coop,Chicken coop,8.129818594104309
+Chicken coop-0034,Chicken coop/Chicken coop-0034.wav,Chicken coop,Chicken coop,3.101065759637188
+Chicken coop-0039,Chicken coop/Chicken coop-0039.wav,Chicken coop,Chicken coop,7.086145124716554
+Chicken coop-0046,Chicken coop/Chicken coop-0046.wav,Chicken coop,Chicken coop,2.5713605442176872
+Chicken coop-0048,Chicken coop/Chicken coop-0048.wav,Chicken coop,Chicken coop,2.2981632653061226
+Chicken coop-0050,Chicken coop/Chicken coop-0050.wav,Chicken coop,Chicken coop,2.069954648526077
+Cicadas-0006,Cicadas and crickets/Cicadas/Cicadas-0006.wav,Cicadas and crickets,Cicadas,15.69310657596372
+Cicadas-0016,Cicadas and crickets/Cicadas/Cicadas-0016.wav,Cicadas and crickets,Cicadas,5.0
+Cicadas-0019,Cicadas and crickets/Cicadas/Cicadas-0019.wav,Cicadas and crickets,Cicadas,37.41902494331066
+Cicadas-0023,Cicadas and crickets/Cicadas/Cicadas-0023.wav,Cicadas and crickets,Cicadas,29.055895691609976
+Cicadas-0040,Cicadas and crickets/Cicadas/Cicadas-0040.wav,Cicadas and crickets,Cicadas,5.0
+Cicadas-0041,Cicadas and crickets/Cicadas/Cicadas-0041.wav,Cicadas and crickets,Cicadas,5.0
+Cicadas-0048,Cicadas and crickets/Cicadas/Cicadas-0048.wav,Cicadas and crickets,Cicadas,24.05557823129252
+Cicadas-0053,Cicadas and crickets/Cicadas/Cicadas-0053.wav,Cicadas and crickets,Cicadas,48.47104308390023
+Crickets-0001,Cicadas and crickets/Crickets/Crickets-0001.wav,Cicadas and crickets,Crickets,34.448140589569164
+Crickets-0012,Cicadas and crickets/Crickets/Crickets-0012.wav,Cicadas and crickets,Crickets,41.21920634920635
+Crickets-0020,Cicadas and crickets/Crickets/Crickets-0020.wav,Cicadas and crickets,Crickets,4.219863945578231
+Crows-0004,Crows seagulls and magpies/Crows/Crows-0004.wav,Crows seagulls and magpies,Crows,23.65154195011338
+Crows-0007,Crows seagulls and magpies/Crows/Crows-0007.wav,Crows seagulls and magpies,Crows,23.633809523809525
+Crows-0010,Crows seagulls and magpies/Crows/Crows-0010.wav,Crows seagulls and magpies,Crows,28.84607709750567
+Crows-0024,Crows seagulls and magpies/Crows/Crows-0024.wav,Crows seagulls and magpies,Crows,2.9981632653061223
+Crows-0031,Crows seagulls and magpies/Crows/Crows-0031.wav,Crows seagulls and magpies,Crows,31.66671201814059
+Crows-0041,Crows seagulls and magpies/Crows/Crows-0041.wav,Crows seagulls and magpies,Crows,10.574104308390025
+Crows-0044,Crows seagulls and magpies/Crows/Crows-0044.wav,Crows seagulls and magpies,Crows,11.163083900226756
+Crows-0047,Crows seagulls and magpies/Crows/Crows-0047.wav,Crows seagulls and magpies,Crows,21.60122448979592
+Dog barkings and howlings-0005,Dog barkings and howlings/Dog barkings and howlings-0005.wav,Dog barkings and howlings,Dog barkings and howlings,26.33469387755102
+Dog barkings and howlings-0006,Dog barkings and howlings/Dog barkings and howlings-0006.wav,Dog barkings and howlings,Dog barkings and howlings,18.246689342403627
+Dog barkings and howlings-0007,Dog barkings and howlings/Dog barkings and howlings-0007.wav,Dog barkings and howlings,Dog barkings and howlings,11.503990929705216
+Dog barkings and howlings-0014,Dog barkings and howlings/Dog barkings and howlings-0014.wav,Dog barkings and howlings,Dog barkings and howlings,2.0889569160997734
+Dog barkings and howlings-0018,Dog barkings and howlings/Dog barkings and howlings-0018.wav,Dog barkings and howlings,Dog barkings and howlings,2.83968253968254
+Dog barkings and howlings-0021,Dog barkings and howlings/Dog barkings and howlings-0021.wav,Dog barkings and howlings,Dog barkings and howlings,25.25333333333333
+Dog barkings and howlings-0026,Dog barkings and howlings/Dog barkings and howlings-0026.wav,Dog barkings and howlings,Dog barkings and howlings,12.582675736961452
+Dog barkings and howlings-0038,Dog barkings and howlings/Dog barkings and howlings-0038.wav,Dog barkings and howlings,Dog barkings and howlings,9.8297052154195
+Dog barkings and howlings-0043,Dog barkings and howlings/Dog barkings and howlings-0043.wav,Dog barkings and howlings,Dog barkings and howlings,6.386530612244898
+Dog barkings and howlings-0058,Dog barkings and howlings/Dog barkings and howlings-0058.wav,Dog barkings and howlings,Dog barkings and howlings,4.097120181405896
+Fireworks-0018,Thunder fireworks and gunshot/Fireworks/Fireworks-0018.wav,Thunder fireworks and gunshot,Fireworks,91.12834467120182
+Fireworks-0036,Thunder fireworks and gunshot/Fireworks/Fireworks-0036.wav,Thunder fireworks and gunshot,Fireworks,20.25210884353741
+Fireworks-0049,Thunder fireworks and gunshot/Fireworks/Fireworks-0049.wav,Thunder fireworks and gunshot,Fireworks,20.25210884353741
+Fireworks-0050,Thunder fireworks and gunshot/Fireworks/Fireworks-0050.wav,Thunder fireworks and gunshot,Fireworks,20.25210884353741
+Fireworks-0054,Thunder fireworks and gunshot/Fireworks/Fireworks-0054.wav,Thunder fireworks and gunshot,Fireworks,20.25210884353741
+Fireworks-0056,Thunder fireworks and gunshot/Fireworks/Fireworks-0056.wav,Thunder fireworks and gunshot,Fireworks,20.25210884353741
+Fireworks-0057,Thunder fireworks and gunshot/Fireworks/Fireworks-0057.wav,Thunder fireworks and gunshot,Fireworks,20.25210884353741
+Fireworks-0061,Thunder fireworks and gunshot/Fireworks/Fireworks-0061.wav,Thunder fireworks and gunshot,Fireworks,20.25210884353741
+Fireworks-0063,Thunder fireworks and gunshot/Fireworks/Fireworks-0063.wav,Thunder fireworks and gunshot,Fireworks,20.25210884353741
+Fireworks-0065,Thunder fireworks and gunshot/Fireworks/Fireworks-0065.wav,Thunder fireworks and gunshot,Fireworks,20.25210884353741
+Glass breaking-0007,Glass breaking/Glass breaking-0007.wav,Glass breaking,Glass breaking,0.2376190476190476
+Glass breaking-0017,Glass breaking/Glass breaking-0017.wav,Glass breaking,Glass breaking,2.507437641723356
+Glass breaking-0020,Glass breaking/Glass breaking-0020.wav,Glass breaking,Glass breaking,2.778820861678005
+Glass breaking-0030,Glass breaking/Glass breaking-0030.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0031,Glass breaking/Glass breaking-0031.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0049,Glass breaking/Glass breaking-0049.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0051,Glass breaking/Glass breaking-0051.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0052,Glass breaking/Glass breaking-0052.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0058,Glass breaking/Glass breaking-0058.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0059,Glass breaking/Glass breaking-0059.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0060,Glass breaking/Glass breaking-0060.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0063,Glass breaking/Glass breaking-0063.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0068,Glass breaking/Glass breaking-0068.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0069,Glass breaking/Glass breaking-0069.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0074,Glass breaking/Glass breaking-0074.wav,Glass breaking,Glass breaking,60.52374149659864
+Glass breaking-0086,Glass breaking/Glass breaking-0086.wav,Glass breaking,Glass breaking,6.398367346938776
+Glass breaking-0088,Glass breaking/Glass breaking-0088.wav,Glass breaking,Glass breaking,9.123990929705217
+Gunshot-0002,Thunder fireworks and gunshot/Gunshot/Gunshot-0002.wav,Thunder fireworks and gunshot,Gunshot,1.2915419501133787
+Gunshot-0004,Thunder fireworks and gunshot/Gunshot/Gunshot-0004.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0009,Thunder fireworks and gunshot/Gunshot/Gunshot-0009.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0023,Thunder fireworks and gunshot/Gunshot/Gunshot-0023.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0025,Thunder fireworks and gunshot/Gunshot/Gunshot-0025.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0034,Thunder fireworks and gunshot/Gunshot/Gunshot-0034.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0047,Thunder fireworks and gunshot/Gunshot/Gunshot-0047.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0053,Thunder fireworks and gunshot/Gunshot/Gunshot-0053.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0057,Thunder fireworks and gunshot/Gunshot/Gunshot-0057.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0058,Thunder fireworks and gunshot/Gunshot/Gunshot-0058.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0059,Thunder fireworks and gunshot/Gunshot/Gunshot-0059.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0064,Thunder fireworks and gunshot/Gunshot/Gunshot-0064.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0070,Thunder fireworks and gunshot/Gunshot/Gunshot-0070.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0072,Thunder fireworks and gunshot/Gunshot/Gunshot-0072.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0077,Thunder fireworks and gunshot/Gunshot/Gunshot-0077.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0086,Thunder fireworks and gunshot/Gunshot/Gunshot-0086.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0087,Thunder fireworks and gunshot/Gunshot/Gunshot-0087.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0102,Thunder fireworks and gunshot/Gunshot/Gunshot-0102.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0108,Thunder fireworks and gunshot/Gunshot/Gunshot-0108.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0112,Thunder fireworks and gunshot/Gunshot/Gunshot-0112.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Gunshot-0127,Thunder fireworks and gunshot/Gunshot/Gunshot-0127.wav,Thunder fireworks and gunshot,Gunshot,2.0
+Helicopters-0005,Propeller aircrafts/Helicopters/Helicopters-0005.wav,Propeller aircrafts,Helicopters,30.22061224489796
+Helicopters-0022,Propeller aircrafts/Helicopters/Helicopters-0022.wav,Propeller aircrafts,Helicopters,17.313174603174602
+Helicopters-0024,Propeller aircrafts/Helicopters/Helicopters-0024.wav,Propeller aircrafts,Helicopters,85.2080045351474
+Helicopters-0025,Propeller aircrafts/Helicopters/Helicopters-0025.wav,Propeller aircrafts,Helicopters,62.43294784580499
+Helicopters-0043,Propeller aircrafts/Helicopters/Helicopters-0043.wav,Propeller aircrafts,Helicopters,99.81748299319727
+Helicopters-0046,Propeller aircrafts/Helicopters/Helicopters-0046.wav,Propeller aircrafts,Helicopters,20.85455782312925
+Helicopters-0050,Propeller aircrafts/Helicopters/Helicopters-0050.wav,Propeller aircrafts,Helicopters,10.518888888888888
+Helicopters-0052,Propeller aircrafts/Helicopters/Helicopters-0052.wav,Propeller aircrafts,Helicopters,54.68002267573696
+Horn-0002,Horn/Horn-0002.wav,Horn,Horn,29.330680272108843
+Horn-0012,Horn/Horn-0012.wav,Horn,Horn,28.42267573696145
+Horn-0023,Horn/Horn-0023.wav,Horn,Horn,0.7496371882086168
+Horn-0031,Horn/Horn-0031.wav,Horn,Horn,0.819297052154195
+Horn-0039,Horn/Horn-0039.wav,Horn,Horn,1.8
+Horn-0045,Horn/Horn-0045.wav,Horn,Horn,0.7759863945578231
+Horn-0046,Horn/Horn-0046.wav,Horn,Horn,3.178049886621315
+Horn-0053,Horn/Horn-0053.wav,Horn,Horn,4.226009070294785
+Horn-0057,Horn/Horn-0057.wav,Horn,Horn,0.6980045351473922
+Jet aircrafts-0008,Jet aircrafts/Jet aircrafts-0008.wav,Jet aircrafts,Jet aircrafts,21.504308390022675
+Jet aircrafts-0009,Jet aircrafts/Jet aircrafts-0009.wav,Jet aircrafts,Jet aircrafts,9.024920634920637
+Jet aircrafts-0010,Jet aircrafts/Jet aircrafts-0010.wav,Jet aircrafts,Jet aircrafts,39.81632653061224
+Jet aircrafts-0013,Jet aircrafts/Jet aircrafts-0013.wav,Jet aircrafts,Jet aircrafts,19.38195011337869
+Jet aircrafts-0022,Jet aircrafts/Jet aircrafts-0022.wav,Jet aircrafts,Jet aircrafts,76.01544217687075
+Jet aircrafts-0038,Jet aircrafts/Jet aircrafts-0038.wav,Jet aircrafts,Jet aircrafts,19.92643990929705
+Jet aircrafts-0040,Jet aircrafts/Jet aircrafts-0040.wav,Jet aircrafts,Jet aircrafts,28.042562358276644
+Jet aircrafts-0045,Jet aircrafts/Jet aircrafts-0045.wav,Jet aircrafts,Jet aircrafts,31.84015873015873
+Jet aircrafts-0046,Jet aircrafts/Jet aircrafts-0046.wav,Jet aircrafts,Jet aircrafts,21.97149659863945
+Jet aircrafts-0050,Jet aircrafts/Jet aircrafts-0050.wav,Jet aircrafts,Jet aircrafts,47.44802721088436
+Jet aircrafts-0062,Jet aircrafts/Jet aircrafts-0062.wav,Jet aircrafts,Jet aircrafts,16.706825396825398
+Jet aircrafts-0080,Jet aircrafts/Jet aircrafts-0080.wav,Jet aircrafts,Jet aircrafts,26.374807256235822
+Jet aircrafts-0093,Jet aircrafts/Jet aircrafts-0093.wav,Jet aircrafts,Jet aircrafts,26.504897959183676
+Jet aircrafts-0098,Jet aircrafts/Jet aircrafts-0098.wav,Jet aircrafts,Jet aircrafts,41.09219954648526
+Jet aircrafts-0100,Jet aircrafts/Jet aircrafts-0100.wav,Jet aircrafts,Jet aircrafts,25.321360544217686
+Lawn mower-0003,Lawn mower brush cutter and olive shaker/Lawn mower/Lawn mower-0003.wav,Lawn mower brush cutter and olive shaker,Lawn mower,42.50190476190476
+Lawn mower-0006,Lawn mower brush cutter and olive shaker/Lawn mower/Lawn mower-0006.wav,Lawn mower brush cutter and olive shaker,Lawn mower,39.452607709750566
+Lawn mower-0009,Lawn mower brush cutter and olive shaker/Lawn mower/Lawn mower-0009.wav,Lawn mower brush cutter and olive shaker,Lawn mower,56.33804988662131
+Lawn mower-0015,Lawn mower brush cutter and olive shaker/Lawn mower/Lawn mower-0015.wav,Lawn mower brush cutter and olive shaker,Lawn mower,25.76501133786848
+Magpies-0001,Crows seagulls and magpies/Magpies/Magpies-0001.wav,Crows seagulls and magpies,Magpies,6.836190476190477
+Magpies-0002,Crows seagulls and magpies/Magpies/Magpies-0002.wav,Crows seagulls and magpies,Magpies,8.125532879818595
+Magpies-0021,Crows seagulls and magpies/Magpies/Magpies-0021.wav,Crows seagulls and magpies,Magpies,6.206734693877551
+Music-0025,Music/Music-0025.wav,Music,Music,30.0
+Music-0044,Music/Music-0044.wav,Music,Music,30.0
+Music-0052,Music/Music-0052.wav,Music,Music,30.0
+Music-0053,Music/Music-0053.wav,Music,Music,30.0
+Music-0054,Music/Music-0054.wav,Music,Music,30.0
+Music-0065,Music/Music-0065.wav,Music,Music,30.0
+Music-0079,Music/Music-0079.wav,Music,Music,30.0
+Music-0104,Music/Music-0104.wav,Music,Music,30.0
+Music-0105,Music/Music-0105.wav,Music,Music,30.0
+Music-0106,Music/Music-0106.wav,Music,Music,30.0
+Music-0108,Music/Music-0108.wav,Music,Music,30.0
+Music-0122,Music/Music-0122.wav,Music,Music,30.0
+Music-0135,Music/Music-0135.wav,Music,Music,30.0
+Music-0137,Music/Music-0137.wav,Music,Music,30.0
+Music-0140,Music/Music-0140.wav,Music,Music,30.0
+Music-0147,Music/Music-0147.wav,Music,Music,30.0
+Music-0149,Music/Music-0149.wav,Music,Music,30.0
+Music-0150,Music/Music-0150.wav,Music,Music,30.0
+Music-0153,Music/Music-0153.wav,Music,Music,30.0
+Music-0154,Music/Music-0154.wav,Music,Music,30.0
+Music-0155,Music/Music-0155.wav,Music,Music,30.0
+Music-0162,Music/Music-0162.wav,Music,Music,30.0
+Music-0164,Music/Music-0164.wav,Music,Music,30.0
+Music-0165,Music/Music-0165.wav,Music,Music,30.0
+Music-0166,Music/Music-0166.wav,Music,Music,30.0
+Music-0168,Music/Music-0168.wav,Music,Music,30.0
+Music-0174,Music/Music-0174.wav,Music,Music,30.0
+Music-0190,Music/Music-0190.wav,Music,Music,30.0
+Music-0197,Music/Music-0197.wav,Music,Music,30.0
+Music-0210,Music/Music-0210.wav,Music,Music,30.0
+Music-0211,Music/Music-0211.wav,Music,Music,30.0
+Music-0214,Music/Music-0214.wav,Music,Music,30.0
+Music-0218,Music/Music-0218.wav,Music,Music,30.0
+Music-0223,Music/Music-0223.wav,Music,Music,30.0
+Music-0235,Music/Music-0235.wav,Music,Music,30.0
+Music-0237,Music/Music-0237.wav,Music,Music,30.0
+Music-0239,Music/Music-0239.wav,Music,Music,30.0
+Music-0241,Music/Music-0241.wav,Music,Music,30.0
+Music-0257,Music/Music-0257.wav,Music,Music,30.01333333333333
+Music-0258,Music/Music-0258.wav,Music,Music,30.01333333333333
+Music-0271,Music/Music-0271.wav,Music,Music,30.01333333333333
+Music-0273,Music/Music-0273.wav,Music,Music,30.01333333333333
+Music-0282,Music/Music-0282.wav,Music,Music,30.01333333333333
+Music-0284,Music/Music-0284.wav,Music,Music,30.01333333333333
+Music-0301,Music/Music-0301.wav,Music,Music,30.12154195011338
+Music-0308,Music/Music-0308.wav,Music,Music,30.01333333333333
+Music-0312,Music/Music-0312.wav,Music,Music,30.01333333333333
+Music-0344,Music/Music-0344.wav,Music,Music,30.01333333333333
+Music-0348,Music/Music-0348.wav,Music,Music,30.00018140589569
+Music-0356,Music/Music-0356.wav,Music,Music,30.00018140589569
+Music-0359,Music/Music-0359.wav,Music,Music,30.00018140589569
+Music-0360,Music/Music-0360.wav,Music,Music,30.00018140589569
+Music-0365,Music/Music-0365.wav,Music,Music,30.00018140589569
+Music-0372,Music/Music-0372.wav,Music,Music,30.00018140589569
+Music-0378,Music/Music-0378.wav,Music,Music,30.00018140589569
+Music-0398,Music/Music-0398.wav,Music,Music,30.00018140589569
+Music-0399,Music/Music-0399.wav,Music,Music,30.00018140589569
+Music-0400,Music/Music-0400.wav,Music,Music,30.00018140589569
+Music-0403,Music/Music-0403.wav,Music,Music,30.00018140589569
+Music-0404,Music/Music-0404.wav,Music,Music,30.00018140589569
+Music-0407,Music/Music-0407.wav,Music,Music,30.00018140589569
+Music-0409,Music/Music-0409.wav,Music,Music,30.01333333333333
+Music-0413,Music/Music-0413.wav,Music,Music,30.01333333333333
+Music-0414,Music/Music-0414.wav,Music,Music,30.01333333333333
+Music-0430,Music/Music-0430.wav,Music,Music,30.351020408163265
+Music-0431,Music/Music-0431.wav,Music,Music,30.011791383219958
+Music-0432,Music/Music-0432.wav,Music,Music,29.99582766439909
+Music-0438,Music/Music-0438.wav,Music,Music,30.648888888888887
+Music-0448,Music/Music-0448.wav,Music,Music,30.01333333333333
+Music-0450,Music/Music-0450.wav,Music,Music,30.01333333333333
+Music-0457,Music/Music-0457.wav,Music,Music,30.01333333333333
+Music-0460,Music/Music-0460.wav,Music,Music,30.01333333333333
+Music-0473,Music/Music-0473.wav,Music,Music,30.01333333333333
+Music-0491,Music/Music-0491.wav,Music,Music,30.01333333333333
+Music-0494,Music/Music-0494.wav,Music,Music,30.01333333333333
+Music-0512,Music/Music-0512.wav,Music,Music,30.01333333333333
+Music-0523,Music/Music-0523.wav,Music,Music,30.01333333333333
+Music-0526,Music/Music-0526.wav,Music,Music,30.01333333333333
+Music-0546,Music/Music-0546.wav,Music,Music,30.01333333333333
+Music-0552,Music/Music-0552.wav,Music,Music,30.01333333333333
+Music-0555,Music/Music-0555.wav,Music,Music,30.01333333333333
+Music-0557,Music/Music-0557.wav,Music,Music,30.01333333333333
+Music-0569,Music/Music-0569.wav,Music,Music,30.01333333333333
+Music-0571,Music/Music-0571.wav,Music,Music,30.01333333333333
+Music-0573,Music/Music-0573.wav,Music,Music,30.01333333333333
+Music-0581,Music/Music-0581.wav,Music,Music,30.01333333333333
+Music-0588,Music/Music-0588.wav,Music,Music,30.01333333333333
+Music-0589,Music/Music-0589.wav,Music,Music,30.01333333333333
+Music-0590,Music/Music-0590.wav,Music,Music,30.01333333333333
+Music-0621,Music/Music-0621.wav,Music,Music,30.00018140589569
+Music-0626,Music/Music-0626.wav,Music,Music,30.00018140589569
+Music-0628,Music/Music-0628.wav,Music,Music,30.00018140589569
+Music-0641,Music/Music-0641.wav,Music,Music,30.01333333333333
+Music-0642,Music/Music-0642.wav,Music,Music,30.01333333333333
+Music-0648,Music/Music-0648.wav,Music,Music,30.01333333333333
+Music-0650,Music/Music-0650.wav,Music,Music,30.01333333333333
+Music-0657,Music/Music-0657.wav,Music,Music,30.01333333333333
+Music-0662,Music/Music-0662.wav,Music,Music,30.01333333333333
+Music-0663,Music/Music-0663.wav,Music,Music,30.01333333333333
+Music-0695,Music/Music-0695.wav,Music,Music,30.01333333333333
+Music-0696,Music/Music-0696.wav,Music,Music,30.01333333333333
+Music-0707,Music/Music-0707.wav,Music,Music,30.00018140589569
+Music-0712,Music/Music-0712.wav,Music,Music,30.00018140589569
+Music-0719,Music/Music-0719.wav,Music,Music,30.00018140589569
+Music-0724,Music/Music-0724.wav,Music,Music,30.00018140589569
+Music-0729,Music/Music-0729.wav,Music,Music,30.00018140589569
+Music-0733,Music/Music-0733.wav,Music,Music,30.00018140589569
+Music-0742,Music/Music-0742.wav,Music,Music,30.00018140589569
+Music-0747,Music/Music-0747.wav,Music,Music,30.00018140589569
+Music-0748,Music/Music-0748.wav,Music,Music,30.00018140589569
+Music-0766,Music/Music-0766.wav,Music,Music,30.00018140589569
+Music-0771,Music/Music-0771.wav,Music,Music,30.00018140589569
+Music-0772,Music/Music-0772.wav,Music,Music,30.00018140589569
+Music-0776,Music/Music-0776.wav,Music,Music,30.00018140589569
+Music-0782,Music/Music-0782.wav,Music,Music,30.00018140589569
+Music-0784,Music/Music-0784.wav,Music,Music,30.00018140589569
+Music-0785,Music/Music-0785.wav,Music,Music,30.00018140589569
+Music-0789,Music/Music-0789.wav,Music,Music,30.00018140589569
+Music-0790,Music/Music-0790.wav,Music,Music,30.00018140589569
+Music-0793,Music/Music-0793.wav,Music,Music,30.00018140589569
+Music-0811,Music/Music-0811.wav,Music,Music,30.01333333333333
+Music-0823,Music/Music-0823.wav,Music,Music,30.01333333333333
+Music-0827,Music/Music-0827.wav,Music,Music,30.01333333333333
+Music-0836,Music/Music-0836.wav,Music,Music,30.01333333333333
+Music-0837,Music/Music-0837.wav,Music,Music,30.01333333333333
+Music-0838,Music/Music-0838.wav,Music,Music,30.01333333333333
+Music-0839,Music/Music-0839.wav,Music,Music,30.01333333333333
+Music-0842,Music/Music-0842.wav,Music,Music,30.01333333333333
+Music-0849,Music/Music-0849.wav,Music,Music,30.00018140589569
+Music-0859,Music/Music-0859.wav,Music,Music,30.00018140589569
+Music-0864,Music/Music-0864.wav,Music,Music,30.00018140589569
+Music-0872,Music/Music-0872.wav,Music,Music,30.00018140589569
+Music-0874,Music/Music-0874.wav,Music,Music,30.00018140589569
+Music-0880,Music/Music-0880.wav,Music,Music,30.00018140589569
+Music-0887,Music/Music-0887.wav,Music,Music,30.00018140589569
+Music-0903,Music/Music-0903.wav,Music,Music,30.01333333333333
+Music-0910,Music/Music-0910.wav,Music,Music,30.01333333333333
+Music-0917,Music/Music-0917.wav,Music,Music,30.01333333333333
+Music-0924,Music/Music-0924.wav,Music,Music,30.01333333333333
+Music-0925,Music/Music-0925.wav,Music,Music,30.01333333333333
+Music-0944,Music/Music-0944.wav,Music,Music,30.01333333333333
+Music-0950,Music/Music-0950.wav,Music,Music,30.01333333333333
+Music-0960,Music/Music-0960.wav,Music,Music,30.01333333333333
+Music-0962,Music/Music-0962.wav,Music,Music,30.01333333333333
+Music-0966,Music/Music-0966.wav,Music,Music,30.01333333333333
+Music-0967,Music/Music-0967.wav,Music,Music,30.01333333333333
+Music-0972,Music/Music-0972.wav,Music,Music,30.01333333333333
+Music-0980,Music/Music-0980.wav,Music,Music,30.01333333333333
+Music-0983,Music/Music-0983.wav,Music,Music,30.01333333333333
+Music-0994,Music/Music-0994.wav,Music,Music,30.01333333333333
+Olive shaker-0004,Lawn mower brush cutter and olive shaker/Olive shaker/Olive shaker-0004.wav,Lawn mower brush cutter and olive shaker,Olive shaker,18.718027210884355
+Olive shaker-0006,Lawn mower brush cutter and olive shaker/Olive shaker/Olive shaker-0006.wav,Lawn mower brush cutter and olive shaker,Olive shaker,19.26639455782313
+Olive shaker-0007,Lawn mower brush cutter and olive shaker/Olive shaker/Olive shaker-0007.wav,Lawn mower brush cutter and olive shaker,Olive shaker,19.26639455782313
+Seagulls-0011,Crows seagulls and magpies/Seagulls/Seagulls-0011.wav,Crows seagulls and magpies,Seagulls,28.337913832199547
+Seagulls-0012,Crows seagulls and magpies/Seagulls/Seagulls-0012.wav,Crows seagulls and magpies,Seagulls,28.337913832199547
+Seagulls-0015,Crows seagulls and magpies/Seagulls/Seagulls-0015.wav,Crows seagulls and magpies,Seagulls,32.19700680272109
+Seagulls-0017,Crows seagulls and magpies/Seagulls/Seagulls-0017.wav,Crows seagulls and magpies,Seagulls,12.6062358276644
+Seagulls-0021,Crows seagulls and magpies/Seagulls/Seagulls-0021.wav,Crows seagulls and magpies,Seagulls,22.54904761904762
+Seagulls-0022,Crows seagulls and magpies/Seagulls/Seagulls-0022.wav,Crows seagulls and magpies,Seagulls,25.94145124716553
+Sirens-0001,Sirens and alarms/Sirens/Sirens-0001.wav,Sirens and alarms,Sirens,27.361179138321997
+Sirens-0011,Sirens and alarms/Sirens/Sirens-0011.wav,Sirens and alarms,Sirens,5.010340136054422
+Sirens-0022,Sirens and alarms/Sirens/Sirens-0022.wav,Sirens and alarms,Sirens,5.0
+Sirens-0034,Sirens and alarms/Sirens/Sirens-0034.wav,Sirens and alarms,Sirens,16.298684807256237
+Sirens-0038,Sirens and alarms/Sirens/Sirens-0038.wav,Sirens and alarms,Sirens,5.0
+Sirens-0047,Sirens and alarms/Sirens/Sirens-0047.wav,Sirens and alarms,Sirens,3.719455782312925
+Sirens-0054,Sirens and alarms/Sirens/Sirens-0054.wav,Sirens and alarms,Sirens,43.45834467120181
+Sirens-0064,Sirens and alarms/Sirens/Sirens-0064.wav,Sirens and alarms,Sirens,2.9640362811791383
+Sirens-0066,Sirens and alarms/Sirens/Sirens-0066.wav,Sirens and alarms,Sirens,18.39646258503401
+Sirens-0068,Sirens and alarms/Sirens/Sirens-0068.wav,Sirens and alarms,Sirens,17.660430839002267
+Thunder-0001,Thunder fireworks and gunshot/Thunder/Thunder-0001.wav,Thunder fireworks and gunshot,Thunder,15.99530612244898
+Thunder-0004,Thunder fireworks and gunshot/Thunder/Thunder-0004.wav,Thunder fireworks and gunshot,Thunder,10.28065759637188
+Thunder-0009,Thunder fireworks and gunshot/Thunder/Thunder-0009.wav,Thunder fireworks and gunshot,Thunder,7.1131292517006806
+Thunder-0020,Thunder fireworks and gunshot/Thunder/Thunder-0020.wav,Thunder fireworks and gunshot,Thunder,16.422721088435374
+Train-0009,Train/Train-0009.wav,Train,Train,15.775646258503402
+Train-0012,Train/Train-0012.wav,Train,Train,31.02897959183673
+Train-0014,Train/Train-0014.wav,Train,Train,43.32725623582766
+Train-0021,Train/Train-0021.wav,Train,Train,212.9480498866213
+Train-0024,Train/Train-0024.wav,Train,Train,14.916167800453517
+Train-0029,Train/Train-0029.wav,Train,Train,45.06718820861678
+Train-0030,Train/Train-0030.wav,Train,Train,19.33065759637188
+Train-0032,Train/Train-0032.wav,Train,Train,15.978684807256236
+Train-0035,Train/Train-0035.wav,Train,Train,12.28
+Train-0057,Train/Train-0057.wav,Train,Train,43.802721088435376
+Voices-0003,Voices/Voices-0003.wav,Voices,Voices,2.6322448979591835
+Voices-0006,Voices/Voices-0006.wav,Voices,Voices,2.8895691609977323
+Voices-0021,Voices/Voices-0021.wav,Voices,Voices,5.11922902494331
+Voices-0027,Voices/Voices-0027.wav,Voices,Voices,1.5526077097505668
+Voices-0032,Voices/Voices-0032.wav,Voices,Voices,2.271519274376417
+Voices-0033,Voices/Voices-0033.wav,Voices,Voices,1.287437641723356
+Voices-0035,Voices/Voices-0035.wav,Voices,Voices,1.4504761904761905
+Voices-0041,Voices/Voices-0041.wav,Voices,Voices,1.706439909297052
+Voices-0042,Voices/Voices-0042.wav,Voices,Voices,1.832562358276644
+Voices-0052,Voices/Voices-0052.wav,Voices,Voices,2.0593197278911566
+Voices-0055,Voices/Voices-0055.wav,Voices,Voices,2.0694784580498866
+Voices-0059,Voices/Voices-0059.wav,Voices,Voices,2.599092970521542
+Voices-0062,Voices/Voices-0062.wav,Voices,Voices,4.487482993197279
+Voices-0070,Voices/Voices-0070.wav,Voices,Voices,7.391655328798186
+Voices-0074,Voices/Voices-0074.wav,Voices,Voices,2.0955555555555554
+Voices-0075,Voices/Voices-0075.wav,Voices,Voices,1.206575963718821
+Voices-0077,Voices/Voices-0077.wav,Voices,Voices,0.7336961451247166
+Voices-0084,Voices/Voices-0084.wav,Voices,Voices,2.7760090702947844
+Voices-0093,Voices/Voices-0093.wav,Voices,Voices,0.397687074829932
+Voices-0107,Voices/Voices-0107.wav,Voices,Voices,0.7165079365079365
+Voices-0109,Voices/Voices-0109.wav,Voices,Voices,1.5934240362811791
+Voices-0118,Voices/Voices-0118.wav,Voices,Voices,4.326213151927438
+Voices-0133,Voices/Voices-0133.wav,Voices,Voices,7.899138321995465
+Voices-0134,Voices/Voices-0134.wav,Voices,Voices,1.1522448979591835
+Voices-0136,Voices/Voices-0136.wav,Voices,Voices,1.380408163265306
+Voices-0155,Voices/Voices-0155.wav,Voices,Voices,3.181360544217687
+Voices-0170,Voices/Voices-0170.wav,Voices,Voices,3.666984126984127
+Voices-0175,Voices/Voices-0175.wav,Voices,Voices,2.3636734693877552
+Voices-0193,Voices/Voices-0193.wav,Voices,Voices,2.27092970521542
+Voices-0200,Voices/Voices-0200.wav,Voices,Voices,8.61251700680272
+Voices-0202,Voices/Voices-0202.wav,Voices,Voices,4.914285714285715
+Voices-0212,Voices/Voices-0212.wav,Voices,Voices,2.2743310657596374
+Voices-0217,Voices/Voices-0217.wav,Voices,Voices,0.9865759637188208
+Voices-0234,Voices/Voices-0234.wav,Voices,Voices,2.4979591836734696
+Voices-0238,Voices/Voices-0238.wav,Voices,Voices,1.555736961451247
+Voices-0242,Voices/Voices-0242.wav,Voices,Voices,0.6876190476190476
+Voices-0243,Voices/Voices-0243.wav,Voices,Voices,1.291156462585034
+Voices-0247,Voices/Voices-0247.wav,Voices,Voices,2.452154195011338
+Voices-0248,Voices/Voices-0248.wav,Voices,Voices,0.3021315192743764
+Voices-0256,Voices/Voices-0256.wav,Voices,Voices,1.462267573696145
+Voices-0258,Voices/Voices-0258.wav,Voices,Voices,2.500952380952381
+Voices-0260,Voices/Voices-0260.wav,Voices,Voices,0.8813605442176871
+Voices-0264,Voices/Voices-0264.wav,Voices,Voices,4.34907029478458
+Voices-0266,Voices/Voices-0266.wav,Voices,Voices,0.8239909297052154
+Voices-0282,Voices/Voices-0282.wav,Voices,Voices,3.6268027210884353
+Voices-0289,Voices/Voices-0289.wav,Voices,Voices,1.6989569160997733
+Voices-0290,Voices/Voices-0290.wav,Voices,Voices,8.435056689342403
+Voices-0291,Voices/Voices-0291.wav,Voices,Voices,2.707120181405896
+Voices-0294,Voices/Voices-0294.wav,Voices,Voices,1.0199092970521542
+Voices-0300,Voices/Voices-0300.wav,Voices,Voices,3.069886621315193
+Voices-0302,Voices/Voices-0302.wav,Voices,Voices,0.5482086167800454
+Voices-0307,Voices/Voices-0307.wav,Voices,Voices,3.2575510204081635
+Voices-0331,Voices/Voices-0331.wav,Voices,Voices,1.966984126984127
+Voices-0332,Voices/Voices-0332.wav,Voices,Voices,0.3305668934240363
+Voices-0337,Voices/Voices-0337.wav,Voices,Voices,0.3889795918367347
+Voices-0355,Voices/Voices-0355.wav,Voices,Voices,5.2115646258503405
+Voices-0376,Voices/Voices-0376.wav,Voices,Voices,1.8822222222222225
+Voices-0390,Voices/Voices-0390.wav,Voices,Voices,0.4288888888888889
+Voices-0397,Voices/Voices-0397.wav,Voices,Voices,2.093922902494331
+Voices-0408,Voices/Voices-0408.wav,Voices,Voices,5.590340136054421
+Voices-0409,Voices/Voices-0409.wav,Voices,Voices,0.455328798185941
+Voices-0416,Voices/Voices-0416.wav,Voices,Voices,3.547800453514739
+Voices-0421,Voices/Voices-0421.wav,Voices,Voices,4.320725623582766
+Voices-0428,Voices/Voices-0428.wav,Voices,Voices,6.367845804988662
+Voices-0434,Voices/Voices-0434.wav,Voices,Voices,1.3741496598639455
+Voices-0449,Voices/Voices-0449.wav,Voices,Voices,2.603356009070295
+Voices-0453,Voices/Voices-0453.wav,Voices,Voices,1.0732426303854876
+Voices-0474,Voices/Voices-0474.wav,Voices,Voices,0.4503854875283447
+Voices-0493,Voices/Voices-0493.wav,Voices,Voices,3.2340589569161
+Voices-0496,Voices/Voices-0496.wav,Voices,Voices,1.537278911564626
+Voices-0500,Voices/Voices-0500.wav,Voices,Voices,3.641315192743764
+Voices-0501,Voices/Voices-0501.wav,Voices,Voices,2.267074829931973
+Voices-0502,Voices/Voices-0502.wav,Voices,Voices,2.445668934240363
+Voices-0508,Voices/Voices-0508.wav,Voices,Voices,13.197233560090703
+Voices-0522,Voices/Voices-0522.wav,Voices,Voices,1.1585034013605442
+Voices-0525,Voices/Voices-0525.wav,Voices,Voices,4.0167800453514735
+Voices-0530,Voices/Voices-0530.wav,Voices,Voices,1.1573696145124717
+Voices-0534,Voices/Voices-0534.wav,Voices,Voices,3.1556462585034013
+Voices-0535,Voices/Voices-0535.wav,Voices,Voices,1.1039909297052155
+Voices-0543,Voices/Voices-0543.wav,Voices,Voices,1.164625850340136
+Voices-0554,Voices/Voices-0554.wav,Voices,Voices,0.3368707482993197
+Voices-0570,Voices/Voices-0570.wav,Voices,Voices,2.980181405895692
+Voices-0581,Voices/Voices-0581.wav,Voices,Voices,4.50172335600907
+Voices-0603,Voices/Voices-0603.wav,Voices,Voices,8.558140589569161
+Voices-0604,Voices/Voices-0604.wav,Voices,Voices,0.8116553287981859
+Voices-0605,Voices/Voices-0605.wav,Voices,Voices,0.5436281179138323
+Voices-0613,Voices/Voices-0613.wav,Voices,Voices,4.961496598639456
+Voices-0624,Voices/Voices-0624.wav,Voices,Voices,5.885578231292517
+Voices-0627,Voices/Voices-0627.wav,Voices,Voices,3.856734693877551
+Voices-0637,Voices/Voices-0637.wav,Voices,Voices,4.106893424036281
+Voices-0638,Voices/Voices-0638.wav,Voices,Voices,2.480907029478458
+Voices-0639,Voices/Voices-0639.wav,Voices,Voices,1.2901133786848074
+Voices-0649,Voices/Voices-0649.wav,Voices,Voices,5.373514739229025
+Voices-0650,Voices/Voices-0650.wav,Voices,Voices,1.9770975056689344
+Voices-0655,Voices/Voices-0655.wav,Voices,Voices,3.858458049886621
+Voices-0659,Voices/Voices-0659.wav,Voices,Voices,7.886485260770975
+Voices-0663,Voices/Voices-0663.wav,Voices,Voices,0.8521995464852608
+Voices-0664,Voices/Voices-0664.wav,Voices,Voices,1.794875283446712
+Voices-0665,Voices/Voices-0665.wav,Voices,Voices,5.876825396825397
+Voices-0670,Voices/Voices-0670.wav,Voices,Voices,2.25156462585034
+Voices-0695,Voices/Voices-0695.wav,Voices,Voices,0.6800907029478458
+Voices-0712,Voices/Voices-0712.wav,Voices,Voices,0.8249433106575964
+Voices-0714,Voices/Voices-0714.wav,Voices,Voices,1.44702947845805
+Voices-0715,Voices/Voices-0715.wav,Voices,Voices,0.9151020408163264
+Voices-0733,Voices/Voices-0733.wav,Voices,Voices,0.3451700680272109
+Voices-0735,Voices/Voices-0735.wav,Voices,Voices,15.645351473922902
+Voices-0737,Voices/Voices-0737.wav,Voices,Voices,9.916689342403629
+Voices-0746,Voices/Voices-0746.wav,Voices,Voices,6.247936507936508
+Voices-0749,Voices/Voices-0749.wav,Voices,Voices,1.5799546485260771
+Voices-0754,Voices/Voices-0754.wav,Voices,Voices,6.009342403628118
+Voices-0757,Voices/Voices-0757.wav,Voices,Voices,2.899954648526077
+Voices-0763,Voices/Voices-0763.wav,Voices,Voices,5.552290249433106
+Voices-0765,Voices/Voices-0765.wav,Voices,Voices,1.5904308390022677
+Voices-0766,Voices/Voices-0766.wav,Voices,Voices,3.850748299319728
+Voices-0771,Voices/Voices-0771.wav,Voices,Voices,2.794875283446712
+Voices-0773,Voices/Voices-0773.wav,Voices,Voices,0.3994557823129251
+Voices-0775,Voices/Voices-0775.wav,Voices,Voices,0.980498866213152
+Voices-0780,Voices/Voices-0780.wav,Voices,Voices,5.788072562358277
+Voices-0785,Voices/Voices-0785.wav,Voices,Voices,0.8012698412698412
+Voices-0789,Voices/Voices-0789.wav,Voices,Voices,0.6708390022675736
+Voices-0798,Voices/Voices-0798.wav,Voices,Voices,0.6647165532879818
+Voices-0807,Voices/Voices-0807.wav,Voices,Voices,0.4868934240362811
+Voices-0811,Voices/Voices-0811.wav,Voices,Voices,0.5009523809523809
+Voices-0813,Voices/Voices-0813.wav,Voices,Voices,2.118049886621315
+Voices-0830,Voices/Voices-0830.wav,Voices,Voices,0.7868480725623582
+Voices-0831,Voices/Voices-0831.wav,Voices,Voices,3.244399092970521
+Voices-0842,Voices/Voices-0842.wav,Voices,Voices,5.8263945578231295
+Voices-0858,Voices/Voices-0858.wav,Voices,Voices,1.6459410430839003
+Voices-0861,Voices/Voices-0861.wav,Voices,Voices,3.9817233560090703
+Voices-0875,Voices/Voices-0875.wav,Voices,Voices,3.0975510204081638
+Voices-0878,Voices/Voices-0878.wav,Voices,Voices,1.1650340136054422
+Voices-0883,Voices/Voices-0883.wav,Voices,Voices,4.415827664399093
+Voices-0897,Voices/Voices-0897.wav,Voices,Voices,4.071292517006802
+Voices-0906,Voices/Voices-0906.wav,Voices,Voices,1.0773696145124716
+Voices-0915,Voices/Voices-0915.wav,Voices,Voices,5.999501133786848
+Voices-0927,Voices/Voices-0927.wav,Voices,Voices,4.703219954648526
+Voices-0929,Voices/Voices-0929.wav,Voices,Voices,6.504671201814059
+Voices-0933,Voices/Voices-0933.wav,Voices,Voices,0.3076643990929705
+Voices-0935,Voices/Voices-0935.wav,Voices,Voices,0.8861224489795918
+Voices-0936,Voices/Voices-0936.wav,Voices,Voices,1.143174603174603
+Voices-0948,Voices/Voices-0948.wav,Voices,Voices,0.5690249433106576
+Voices-0949,Voices/Voices-0949.wav,Voices,Voices,0.2594104308390023
+Voices-0957,Voices/Voices-0957.wav,Voices,Voices,5.688208616780045
+Voices-0961,Voices/Voices-0961.wav,Voices,Voices,1.794467120181406
+Voices-0965,Voices/Voices-0965.wav,Voices,Voices,6.896235827664399
+Voices-0967,Voices/Voices-0967.wav,Voices,Voices,1.366031746031746
+Voices-0991,Voices/Voices-0991.wav,Voices,Voices,0.3522448979591837
+Voices-0997,Voices/Voices-0997.wav,Voices,Voices,2.772018140589569
+Voices-1001,Voices/Voices-1001.wav,Voices,Voices,5.702494331065759
+Voices-1009,Voices/Voices-1009.wav,Voices,Voices,6.670657596371882
+Voices-1018,Voices/Voices-1018.wav,Voices,Voices,2.176371882086168
+Voices-1021,Voices/Voices-1021.wav,Voices,Voices,3.572426303854875
+Voices-1022,Voices/Voices-1022.wav,Voices,Voices,3.1290702947845803
+Voices-1024,Voices/Voices-1024.wav,Voices,Voices,4.495283446712018
+Voices-1027,Voices/Voices-1027.wav,Voices,Voices,1.185124716553288
+Voices-1035,Voices/Voices-1035.wav,Voices,Voices,11.29469387755102
+Voices-1042,Voices/Voices-1042.wav,Voices,Voices,0.8559637188208616
+Voices-1047,Voices/Voices-1047.wav,Voices,Voices,6.904761904761905
+Voices-1050,Voices/Voices-1050.wav,Voices,Voices,0.4650793650793651
+Voices-1053,Voices/Voices-1053.wav,Voices,Voices,0.7524716553287982
+Voices-1055,Voices/Voices-1055.wav,Voices,Voices,1.6961904761904762
+Voices-1060,Voices/Voices-1060.wav,Voices,Voices,0.6134693877551021
+Voices-1065,Voices/Voices-1065.wav,Voices,Voices,3.262721088435374
+Voices-1081,Voices/Voices-1081.wav,Voices,Voices,5.691836734693878
+Voices-1084,Voices/Voices-1084.wav,Voices,Voices,1.7391836734693875
+Voices-1096,Voices/Voices-1096.wav,Voices,Voices,0.2606802721088435
+Voices-1100,Voices/Voices-1100.wav,Voices,Voices,2.012244897959184
+Voices-1104,Voices/Voices-1104.wav,Voices,Voices,5.747165532879818
+Voices-1110,Voices/Voices-1110.wav,Voices,Voices,7.049387755102041
+Voices-1122,Voices/Voices-1122.wav,Voices,Voices,0.7407709750566893
+Voices-1134,Voices/Voices-1134.wav,Voices,Voices,1.1067573696145123
+Voices-1140,Voices/Voices-1140.wav,Voices,Voices,1.006122448979592
+Voices-1143,Voices/Voices-1143.wav,Voices,Voices,3.075873015873016
+Voices-1145,Voices/Voices-1145.wav,Voices,Voices,4.311972789115647
+Voices-1147,Voices/Voices-1147.wav,Voices,Voices,1.7391383219954648
+Voices-1150,Voices/Voices-1150.wav,Voices,Voices,4.786303854875284
+Voices-1153,Voices/Voices-1153.wav,Voices,Voices,1.193015873015873
+Voices-1155,Voices/Voices-1155.wav,Voices,Voices,0.9309750566893424
+Voices-1160,Voices/Voices-1160.wav,Voices,Voices,3.686621315192744
+Voices-1165,Voices/Voices-1165.wav,Voices,Voices,5.6794557823129255
+Voices-1170,Voices/Voices-1170.wav,Voices,Voices,0.2854875283446712
+Voices-1176,Voices/Voices-1176.wav,Voices,Voices,13.67142857142857
+Voices-1178,Voices/Voices-1178.wav,Voices,Voices,4.193605442176871
+Voices-1205,Voices/Voices-1205.wav,Voices,Voices,1.1315646258503402
+Voices-1221,Voices/Voices-1221.wav,Voices,Voices,2.322312925170068
+Voices-1222,Voices/Voices-1222.wav,Voices,Voices,0.9008616780045352
+Voices-1226,Voices/Voices-1226.wav,Voices,Voices,1.0495691609977325
+Voices-1229,Voices/Voices-1229.wav,Voices,Voices,1.2809977324263038
+Voices-1236,Voices/Voices-1236.wav,Voices,Voices,3.613877551020408
+Voices-1240,Voices/Voices-1240.wav,Voices,Voices,1.3966893424036282
+Voices-1243,Voices/Voices-1243.wav,Voices,Voices,1.5206802721088435
+Voices-1248,Voices/Voices-1248.wav,Voices,Voices,2.421496598639456
+Voices-1254,Voices/Voices-1254.wav,Voices,Voices,0.677687074829932
+Voices-1258,Voices/Voices-1258.wav,Voices,Voices,8.914739229024944
+Voices-1261,Voices/Voices-1261.wav,Voices,Voices,7.743310657596372
+Voices-1270,Voices/Voices-1270.wav,Voices,Voices,2.46281179138322
+Voices-1271,Voices/Voices-1271.wav,Voices,Voices,1.2975056689342404
+Voices-1272,Voices/Voices-1272.wav,Voices,Voices,1.884308390022676
+Voices-1276,Voices/Voices-1276.wav,Voices,Voices,0.5697505668934241
+Voices-1277,Voices/Voices-1277.wav,Voices,Voices,4.1676643990929705
+Voices-1289,Voices/Voices-1289.wav,Voices,Voices,1.0578231292517006
+Voices-1313,Voices/Voices-1313.wav,Voices,Voices,4.272063492063492
+Voices-1315,Voices/Voices-1315.wav,Voices,Voices,0.8264852607709751
+Voices-1322,Voices/Voices-1322.wav,Voices,Voices,13.286031746031746
+Voices-1329,Voices/Voices-1329.wav,Voices,Voices,6.419501133786848
+Voices-1331,Voices/Voices-1331.wav,Voices,Voices,2.838548752834467
+Voices-1337,Voices/Voices-1337.wav,Voices,Voices,5.606439909297052
+Voices-1340,Voices/Voices-1340.wav,Voices,Voices,12.867619047619048
+Voices-1342,Voices/Voices-1342.wav,Voices,Voices,11.580544217687075
+Voices-1346,Voices/Voices-1346.wav,Voices,Voices,0.4318367346938775
+Voices-1347,Voices/Voices-1347.wav,Voices,Voices,0.6894331065759637
+Voices-1349,Voices/Voices-1349.wav,Voices,Voices,1.3333333333333333
+Voices-1353,Voices/Voices-1353.wav,Voices,Voices,0.946984126984127
+Voices-1360,Voices/Voices-1360.wav,Voices,Voices,0.3863945578231292
+Voices-1376,Voices/Voices-1376.wav,Voices,Voices,1.6426303854875284
+Voices-1381,Voices/Voices-1381.wav,Voices,Voices,0.4086621315192744
+Voices-1382,Voices/Voices-1382.wav,Voices,Voices,1.3187755102040817
+Voices-1383,Voices/Voices-1383.wav,Voices,Voices,4.625759637188208
+Voices-1395,Voices/Voices-1395.wav,Voices,Voices,2.9524716553287984
+Voices-1396,Voices/Voices-1396.wav,Voices,Voices,3.505487528344671
+Voices-1405,Voices/Voices-1405.wav,Voices,Voices,0.9862585034013606
+Voices-1406,Voices/Voices-1406.wav,Voices,Voices,2.4079818594104307
+Voices-1413,Voices/Voices-1413.wav,Voices,Voices,2.4547392290249435
+Voices-1433,Voices/Voices-1433.wav,Voices,Voices,0.4217687074829932
+Voices-1441,Voices/Voices-1441.wav,Voices,Voices,0.5024036281179138
+Voices-1451,Voices/Voices-1451.wav,Voices,Voices,0.4816326530612245
+Voices-1466,Voices/Voices-1466.wav,Voices,Voices,6.314920634920635
+Voices-1468,Voices/Voices-1468.wav,Voices,Voices,6.582630385487528
+Voices-1469,Voices/Voices-1469.wav,Voices,Voices,3.333333333333333
+Voices-1473,Voices/Voices-1473.wav,Voices,Voices,2.757233560090703
+Voices-1475,Voices/Voices-1475.wav,Voices,Voices,1.3257596371882086
+Voices-1481,Voices/Voices-1481.wav,Voices,Voices,3.90875283446712
+Voices-1482,Voices/Voices-1482.wav,Voices,Voices,2.009433106575964
+Voices-1488,Voices/Voices-1488.wav,Voices,Voices,2.170566893424036
+Voices-1499,Voices/Voices-1499.wav,Voices,Voices,2.2932879818594105
+Voices-1500,Voices/Voices-1500.wav,Voices,Voices,1.507392290249433
+Voices-1525,Voices/Voices-1525.wav,Voices,Voices,1.0799092970521542
+Voices-1539,Voices/Voices-1539.wav,Voices,Voices,7.810068027210884
+Voices-1540,Voices/Voices-1540.wav,Voices,Voices,1.638684807256236
+Voices-1570,Voices/Voices-1570.wav,Voices,Voices,3.240907029478458
+Voices-1588,Voices/Voices-1588.wav,Voices,Voices,1.4195464852607709
+Voices-1594,Voices/Voices-1594.wav,Voices,Voices,2.612517006802721
+Voices-1595,Voices/Voices-1595.wav,Voices,Voices,1.5521995464852607
+Voices-1596,Voices/Voices-1596.wav,Voices,Voices,2.3960544217687074
+Voices-1602,Voices/Voices-1602.wav,Voices,Voices,2.2448979591836733
+Voices-1621,Voices/Voices-1621.wav,Voices,Voices,0.4745124716553288
+Voices-1623,Voices/Voices-1623.wav,Voices,Voices,3.8410884353741497
+Voices-1626,Voices/Voices-1626.wav,Voices,Voices,7.4819501133786845
+Voices-1629,Voices/Voices-1629.wav,Voices,Voices,4.2070294784580495
+Voices-1637,Voices/Voices-1637.wav,Voices,Voices,0.936734693877551
+Voices-1642,Voices/Voices-1642.wav,Voices,Voices,0.914467120181406
+Voices-1650,Voices/Voices-1650.wav,Voices,Voices,11.7881179138322
+Voices-1669,Voices/Voices-1669.wav,Voices,Voices,1.8775510204081636
+Voices-1674,Voices/Voices-1674.wav,Voices,Voices,0.6292517006802721
+Voices-1682,Voices/Voices-1682.wav,Voices,Voices,2.2886621315192746
+Voices-1686,Voices/Voices-1686.wav,Voices,Voices,1.2305668934240364
+Voices-1688,Voices/Voices-1688.wav,Voices,Voices,3.90140589569161
+Voices-1691,Voices/Voices-1691.wav,Voices,Voices,1.3801814058956916
+Voices-1694,Voices/Voices-1694.wav,Voices,Voices,0.935283446712018
+Voices-1695,Voices/Voices-1695.wav,Voices,Voices,4.864943310657597
+Voices-1707,Voices/Voices-1707.wav,Voices,Voices,3.9020861678004537
+Voices-1718,Voices/Voices-1718.wav,Voices,Voices,0.4079365079365079
+Voices-1720,Voices/Voices-1720.wav,Voices,Voices,4.180226757369614
+Voices-1724,Voices/Voices-1724.wav,Voices,Voices,5.115510204081633
+Voices-1729,Voices/Voices-1729.wav,Voices,Voices,7.856009070294784
+Voices-1754,Voices/Voices-1754.wav,Voices,Voices,5.642358276643991
+Voices-1757,Voices/Voices-1757.wav,Voices,Voices,2.6096145124716554
+Voices-1769,Voices/Voices-1769.wav,Voices,Voices,0.6605895691609978
+Voices-1777,Voices/Voices-1777.wav,Voices,Voices,5.078140589569161
+Voices-1786,Voices/Voices-1786.wav,Voices,Voices,19.528163265306123
+Voices-1787,Voices/Voices-1787.wav,Voices,Voices,5.201995464852608
+Voices-1788,Voices/Voices-1788.wav,Voices,Voices,2.2518367346938777
+Voices-1793,Voices/Voices-1793.wav,Voices,Voices,0.866984126984127
+Voices-1800,Voices/Voices-1800.wav,Voices,Voices,7.224988662131519
+Voices-1802,Voices/Voices-1802.wav,Voices,Voices,5.945170068027211
+Voices-1808,Voices/Voices-1808.wav,Voices,Voices,7.142448979591837
+Voices-1825,Voices/Voices-1825.wav,Voices,Voices,2.766167800453515
+Voices-1841,Voices/Voices-1841.wav,Voices,Voices,17.340045351473922
+Voices-1849,Voices/Voices-1849.wav,Voices,Voices,0.7844444444444445
+Voices-1850,Voices/Voices-1850.wav,Voices,Voices,0.5366893424036281
+Voices-1853,Voices/Voices-1853.wav,Voices,Voices,3.385442176870748
+Voices-1864,Voices/Voices-1864.wav,Voices,Voices,1.4034467120181406
+Voices-1869,Voices/Voices-1869.wav,Voices,Voices,5.385850340136054
+Voices-1870,Voices/Voices-1870.wav,Voices,Voices,1.7752834467120182
+Voices-1871,Voices/Voices-1871.wav,Voices,Voices,1.8165532879818596
+Wind turbine-0005,Wind turbine/Wind turbine-0005.wav,Wind turbine,Wind turbine,30.86700680272109
+Wind turbine-0013,Wind turbine/Wind turbine-0013.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0015,Wind turbine/Wind turbine-0015.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0030,Wind turbine/Wind turbine-0030.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0031,Wind turbine/Wind turbine-0031.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0044,Wind turbine/Wind turbine-0044.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0052,Wind turbine/Wind turbine-0052.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0053,Wind turbine/Wind turbine-0053.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0060,Wind turbine/Wind turbine-0060.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0065,Wind turbine/Wind turbine-0065.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0067,Wind turbine/Wind turbine-0067.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0071,Wind turbine/Wind turbine-0071.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0077,Wind turbine/Wind turbine-0077.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0089,Wind turbine/Wind turbine-0089.wav,Wind turbine,Wind turbine,10.0
+Wind turbine-0095,Wind turbine/Wind turbine-0095.wav,Wind turbine,Wind turbine,10.0
+air compressor-0002,Workshop/air compressor/air compressor-0002.wav,Workshop,air compressor,22.318480725623584
+air compressor-0008,Workshop/air compressor/air compressor-0008.wav,Workshop,air compressor,8.669115646258504
+air compressor-0021,Workshop/air compressor/air compressor-0021.wav,Workshop,air compressor,6.231111111111111
+air compressor-0023,Workshop/air compressor/air compressor-0023.wav,Workshop,air compressor,14.430702947845806
+car pass-by-0013,Vehicle pass-by/car pass-by/car pass-by-0013.wav,Vehicle pass-by,car pass-by,8.382018140589569
+car pass-by-0014,Vehicle pass-by/car pass-by/car pass-by-0014.wav,Vehicle pass-by,car pass-by,13.886031746031746
+car pass-by-0019,Vehicle pass-by/car pass-by/car pass-by-0019.wav,Vehicle pass-by,car pass-by,4.367120181405896
+car pass-by-0020,Vehicle pass-by/car pass-by/car pass-by-0020.wav,Vehicle pass-by,car pass-by,5.007392290249433
+car pass-by-0021,Vehicle pass-by/car pass-by/car pass-by-0021.wav,Vehicle pass-by,car pass-by,6.436077097505669
+car pass-by-0036,Vehicle pass-by/car pass-by/car pass-by-0036.wav,Vehicle pass-by,car pass-by,5.929795918367347
+car pass-by-0043,Vehicle pass-by/car pass-by/car pass-by-0043.wav,Vehicle pass-by,car pass-by,5.050272108843537
+car pass-by-0050,Vehicle pass-by/car pass-by/car pass-by-0050.wav,Vehicle pass-by,car pass-by,5.084353741496599
+car pass-by-0051,Vehicle pass-by/car pass-by/car pass-by-0051.wav,Vehicle pass-by,car pass-by,5.049659863945578
+car pass-by-0066,Vehicle pass-by/car pass-by/car pass-by-0066.wav,Vehicle pass-by,car pass-by,2.944965986394558
+car pass-by-0067,Vehicle pass-by/car pass-by/car pass-by-0067.wav,Vehicle pass-by,car pass-by,3.332312925170068
+car pass-by-0072,Vehicle pass-by/car pass-by/car pass-by-0072.wav,Vehicle pass-by,car pass-by,1.6234920634920635
+car pass-by-0086,Vehicle pass-by/car pass-by/car pass-by-0086.wav,Vehicle pass-by,car pass-by,2.1115419501133785
+car pass-by-0087,Vehicle pass-by/car pass-by/car pass-by-0087.wav,Vehicle pass-by,car pass-by,3.199002267573696
+car pass-by-0090,Vehicle pass-by/car pass-by/car pass-by-0090.wav,Vehicle pass-by,car pass-by,6.292607709750567
+car pass-by-0097,Vehicle pass-by/car pass-by/car pass-by-0097.wav,Vehicle pass-by,car pass-by,6.379319727891157
+car pass-by-0106,Vehicle pass-by/car pass-by/car pass-by-0106.wav,Vehicle pass-by,car pass-by,6.5
+car truck idling-0013,Vehicle idling/car truck idling/car truck idling-0013.wav,Vehicle idling,car truck idling,48.458231292517006
+car truck idling-0023,Vehicle idling/car truck idling/car truck idling-0023.wav,Vehicle idling,car truck idling,25.0218820861678
+car truck idling-0026,Vehicle idling/car truck idling/car truck idling-0026.wav,Vehicle idling,car truck idling,31.31390022675737
+car truck idling-0027,Vehicle idling/car truck idling/car truck idling-0027.wav,Vehicle idling,car truck idling,17.38902494331066
+car truck idling-0031,Vehicle idling/car truck idling/car truck idling-0031.wav,Vehicle idling,car truck idling,10.097233560090704
+car truck idling-0034,Vehicle idling/car truck idling/car truck idling-0034.wav,Vehicle idling,car truck idling,40.82027210884354
+car truck idling-0036,Vehicle idling/car truck idling/car truck idling-0036.wav,Vehicle idling,car truck idling,12.136031746031746
+car truck idling-0048,Vehicle idling/car truck idling/car truck idling-0048.wav,Vehicle idling,car truck idling,233.0814058956916
+car truck idling-0051,Vehicle idling/car truck idling/car truck idling-0051.wav,Vehicle idling,car truck idling,98.12430839002268
+car truck idling-0056,Vehicle idling/car truck idling/car truck idling-0056.wav,Vehicle idling,car truck idling,73.3679365079365
+car truck idling-0061,Vehicle idling/car truck idling/car truck idling-0061.wav,Vehicle idling,car truck idling,17.99968253968254
+car truck idling-0064,Vehicle idling/car truck idling/car truck idling-0064.wav,Vehicle idling,car truck idling,25.73333333333333
+drill-0004,Workshop/drill/drill-0004.wav,Workshop,drill,28.267278911564627
+drill-0011,Workshop/drill/drill-0011.wav,Workshop,drill,11.639092970521542
+drill-0014,Workshop/drill/drill-0014.wav,Workshop,drill,8.085260770975056
+drill-0022,Workshop/drill/drill-0022.wav,Workshop,drill,28.381632653061224
+drill-0023,Workshop/drill/drill-0023.wav,Workshop,drill,2.37
+drill-0044,Workshop/drill/drill-0044.wav,Workshop,drill,41.289410430839006
+fan-0001,Vacuum cleaner fan and hairdryer/fan/fan-0001.wav,Vacuum cleaner fan and hairdryer,fan,63.58310657596372
+fan-0002,Vacuum cleaner fan and hairdryer/fan/fan-0002.wav,Vacuum cleaner fan and hairdryer,fan,70.85154195011337
+fan-0006,Vacuum cleaner fan and hairdryer/fan/fan-0006.wav,Vacuum cleaner fan and hairdryer,fan,119.59569160997732
+fan-0008,Vacuum cleaner fan and hairdryer/fan/fan-0008.wav,Vacuum cleaner fan and hairdryer,fan,16.16108843537415
+fan-0018,Vacuum cleaner fan and hairdryer/fan/fan-0018.wav,Vacuum cleaner fan and hairdryer,fan,21.844285714285714
+grinder-0008,Workshop/grinder/grinder-0008.wav,Workshop,grinder,18.09015873015873
+grinder-0015,Workshop/grinder/grinder-0015.wav,Workshop,grinder,24.634761904761906
+grinder-0020,Workshop/grinder/grinder-0020.wav,Workshop,grinder,36.965986394557824
+grinder-0024,Workshop/grinder/grinder-0024.wav,Workshop,grinder,7.881043083900226
+grinder-0026,Workshop/grinder/grinder-0026.wav,Workshop,grinder,12.913038548752834
+grinder-0036,Workshop/grinder/grinder-0036.wav,Workshop,grinder,25.62557823129252
+hairdryer-0001,Vacuum cleaner fan and hairdryer/hairdryer/hairdryer-0001.wav,Vacuum cleaner fan and hairdryer,hairdryer,6.551043083900227
+hairdryer-0004,Vacuum cleaner fan and hairdryer/hairdryer/hairdryer-0004.wav,Vacuum cleaner fan and hairdryer,hairdryer,7.066984126984127
+hairdryer-0011,Vacuum cleaner fan and hairdryer/hairdryer/hairdryer-0011.wav,Vacuum cleaner fan and hairdryer,hairdryer,6.43750566893424
+hairdryer-0015,Vacuum cleaner fan and hairdryer/hairdryer/hairdryer-0015.wav,Vacuum cleaner fan and hairdryer,hairdryer,11.04
+hairdryer-0022,Vacuum cleaner fan and hairdryer/hairdryer/hairdryer-0022.wav,Vacuum cleaner fan and hairdryer,hairdryer,6.4078231292517005
+hairdryer-0032,Vacuum cleaner fan and hairdryer/hairdryer/hairdryer-0032.wav,Vacuum cleaner fan and hairdryer,hairdryer,29.277392290249438
+jackhammer-0002,Workshop/jackhammer/jackhammer-0002.wav,Workshop,jackhammer,13.44124716553288
+jackhammer-0005,Workshop/jackhammer/jackhammer-0005.wav,Workshop,jackhammer,8.203151927437641
+jackhammer-0010,Workshop/jackhammer/jackhammer-0010.wav,Workshop,jackhammer,79.28818594104308
+jackhammer-0021,Workshop/jackhammer/jackhammer-0021.wav,Workshop,jackhammer,28.89950113378685
+jackhammer-0028,Workshop/jackhammer/jackhammer-0028.wav,Workshop,jackhammer,29.810249433106577
+jackhammer-0040,Workshop/jackhammer/jackhammer-0040.wav,Workshop,jackhammer,29.810249433106577
+jackhammer-0049,Workshop/jackhammer/jackhammer-0049.wav,Workshop,jackhammer,11.451655328798186
+jackhammer-0055,Workshop/jackhammer/jackhammer-0055.wav,Workshop,jackhammer,1.9811337868480725
+jackhammer-0062,Workshop/jackhammer/jackhammer-0062.wav,Workshop,jackhammer,33.55936507936508
+motorbike idling-0004,Vehicle idling/motorbike idling/motorbike idling-0004.wav,Vehicle idling,motorbike idling,18.361700680272108
+motorbike idling-0016,Vehicle idling/motorbike idling/motorbike idling-0016.wav,Vehicle idling,motorbike idling,25.66104308390023
+motorbike idling-0018,Vehicle idling/motorbike idling/motorbike idling-0018.wav,Vehicle idling,motorbike idling,42.646621315192746
+motorbike idling-0026,Vehicle idling/motorbike idling/motorbike idling-0026.wav,Vehicle idling,motorbike idling,481.4839002267574
+motorbike idling-0028,Vehicle idling/motorbike idling/motorbike idling-0028.wav,Vehicle idling,motorbike idling,8.007959183673469
+motorbike pass-by-0004,Vehicle pass-by/motorbike pass-by/motorbike pass-by-0004.wav,Vehicle pass-by,motorbike pass-by,8.791043083900227
+motorbike pass-by-0005,Vehicle pass-by/motorbike pass-by/motorbike pass-by-0005.wav,Vehicle pass-by,motorbike pass-by,10.185487528344671
+motorbike pass-by-0013,Vehicle pass-by/motorbike pass-by/motorbike pass-by-0013.wav,Vehicle pass-by,motorbike pass-by,8.296439909297051
+motorbike pass-by-0016,Vehicle pass-by/motorbike pass-by/motorbike pass-by-0016.wav,Vehicle pass-by,motorbike pass-by,4.016281179138322
+motorbike pass-by-0020,Vehicle pass-by/motorbike pass-by/motorbike pass-by-0020.wav,Vehicle pass-by,motorbike pass-by,9.013514739229024
+motorbike pass-by-0023,Vehicle pass-by/motorbike pass-by/motorbike pass-by-0023.wav,Vehicle pass-by,motorbike pass-by,4.943015873015873
+motorbike pass-by-0028,Vehicle pass-by/motorbike pass-by/motorbike pass-by-0028.wav,Vehicle pass-by,motorbike pass-by,5.000589569160998
+motorbike pass-by-0040,Vehicle pass-by/motorbike pass-by/motorbike pass-by-0040.wav,Vehicle pass-by,motorbike pass-by,2.8081179138321994
+saw-0001,Workshop/saw/saw-0001.wav,Workshop,saw,1.909705215419501
+saw-0002,Workshop/saw/saw-0002.wav,Workshop,saw,20.373537414965988
+saw-0004,Workshop/saw/saw-0004.wav,Workshop,saw,10.632743764172336
+saw-0014,Workshop/saw/saw-0014.wav,Workshop,saw,14.372222222222222
+saw-0015,Workshop/saw/saw-0015.wav,Workshop,saw,14.347709750566894
+saw-0023,Workshop/saw/saw-0023.wav,Workshop,saw,15.56233560090703
+truck pass-by-0003,Vehicle pass-by/truck pass-by/truck pass-by-0003.wav,Vehicle pass-by,truck pass-by,6.769750566893424
+truck pass-by-0007,Vehicle pass-by/truck pass-by/truck pass-by-0007.wav,Vehicle pass-by,truck pass-by,111.29795918367348
+truck pass-by-0016,Vehicle pass-by/truck pass-by/truck pass-by-0016.wav,Vehicle pass-by,truck pass-by,4.27702947845805
+truck pass-by-0017,Vehicle pass-by/truck pass-by/truck pass-by-0017.wav,Vehicle pass-by,truck pass-by,5.051224489795918
+truck pass-by-0019,Vehicle pass-by/truck pass-by/truck pass-by-0019.wav,Vehicle pass-by,truck pass-by,4.635056689342403
+truck pass-by-0036,Vehicle pass-by/truck pass-by/truck pass-by-0036.wav,Vehicle pass-by,truck pass-by,3.825192743764173
+truck pass-by-0045,Vehicle pass-by/truck pass-by/truck pass-by-0045.wav,Vehicle pass-by,truck pass-by,11.022131519274376
+truck pass-by-0050,Vehicle pass-by/truck pass-by/truck pass-by-0050.wav,Vehicle pass-by,truck pass-by,33.4580045351474
+vacuum cleaner-0006,Vacuum cleaner fan and hairdryer/vacuum cleaner/vacuum cleaner-0006.wav,Vacuum cleaner fan and hairdryer,vacuum cleaner,62.04655328798186
+vacuum cleaner-0013,Vacuum cleaner fan and hairdryer/vacuum cleaner/vacuum cleaner-0013.wav,Vacuum cleaner fan and hairdryer,vacuum cleaner,132.5653514739229
+vacuum cleaner-0014,Vacuum cleaner fan and hairdryer/vacuum cleaner/vacuum cleaner-0014.wav,Vacuum cleaner fan and hairdryer,vacuum cleaner,39.02333333333333
+vacuum cleaner-0015,Vacuum cleaner fan and hairdryer/vacuum cleaner/vacuum cleaner-0015.wav,Vacuum cleaner fan and hairdryer,vacuum cleaner,19.68886621315193

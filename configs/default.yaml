@@ -1,0 +1,56 @@
+# Default experiment config. Record every change here (with its reason) in the commit message.
+
+dataset:
+  name: DataSEC
+  doi: 10.5281/zenodo.17033970
+  raw_dir: data/raw
+  index_csv: data/index.csv
+  cache_dir: data/cache_22k        # resampled waveforms (.npy int16) — audio only, never spectrograms
+  splits_dir: splits
+  label_level: macro              # 22 macro-classes
+
+split:
+  seed: 42
+  train: 0.70
+  val: 0.15
+  test: 0.15
+
+audio:
+  sample_rate: 22050
+  duration_s: 5.0                 # 110250 samples
+  train_crop: random
+  eval_crop: center
+  pad_mode: zero
+
+features:
+  n_fft: 1024
+  win_length: 1024
+  hop_length: 512
+  window: hann
+  n_mels: 64
+  f_min: 20.0
+  f_max: 11025.0
+  power: 2.0
+  log: db                         # 10*log10(mel + 1e-10)
+  top_db: 80.0
+  normalize: global_train         # mean/std over train set only
+
+train:
+  seeds: [42, 43, 44]
+  epochs: 50
+  batch_size: 64
+  optimizer: adamw
+  lr: 1.0e-3
+  weight_decay: 1.0e-2
+  scheduler: cosine
+  warmup_epochs: 2
+  class_weighted_loss: true
+  early_stopping_metric: val_macro_f1
+  patience: 8
+  amp: true
+  num_workers: 2
+
+models:
+  small_cnn: {channels: [32, 64, 128, 256], dropout: 0.3}
+  mobilenetv3s: {pretrained: true, lr: 3.0e-4, dropout: 0.2}
+  crnn: {channels: [64, 128, 128, 128], gru_hidden: 128, bidirectional: true, dropout: 0.3}

@@ -1,0 +1,123 @@
+{
+  "seed": 42,
+  "method": "StratifiedGroupKFold(n_splits=20) on leaf class; folds 0-2 test, 3-5 val, rest train",
+  "groups": "md5 exact duplicates (+ data/near_duplicates.csv if present)",
+  "n_groups_multi": 16,
+  "sizes": {
+    "train": 3532,
+    "test": 758,
+    "val": 758
+  },
+  "per_macro_class": {
+    "Bells": {
+      "test": 11,
+      "train": 46,
+      "val": 10
+    },
+    "Birds": {
+      "test": 9,
+      "train": 49,
+      "val": 11
+    },
+    "Cat fights and moans": {
+      "test": 8,
+      "train": 34,
+      "val": 8
+    },
+    "Chicken coop": {
+      "test": 9,
+      "train": 42,
+      "val": 7
+    },
+    "Cicadas and crickets": {
+      "test": 11,
+      "train": 52,
+      "val": 11
+    },
+    "Crows seagulls and magpies": {
+      "test": 17,
+      "train": 72,
+      "val": 17
+    },
+    "Dog barkings and howlings": {
+      "test": 11,
+      "train": 49,
+      "val": 10
+    },
+    "Glass breaking": {
+      "test": 17,
+      "train": 75,
+      "val": 17
+    },
+    "Horn": {
+      "test": 8,
+      "train": 40,
+      "val": 9
+    },
+    "Jet aircrafts": {
+      "test": 15,
+      "train": 73,
+      "val": 15
+    },
+    "Lawn mower brush cutter and olive shaker": {
+      "test": 18,
+      "train": 89,
+      "val": 20
+    },
+    "Music": {
+      "test": 150,
+      "train": 701,
+      "val": 150
+    },
+    "Propeller aircrafts": {
+      "test": 15,
+      "train": 77,
+      "val": 16
+    },
+    "Sirens and alarms": {
+      "test": 17,
+      "train": 72,
+      "val": 16
+    },
+    "Thunder fireworks and gunshot": {
+      "test": 35,
+      "train": 165,
+      "val": 35
+    },
+    "Train": {
+      "test": 11,
+      "train": 46,
+      "val": 10
+    },
+    "Vacuum cleaner fan and hairdryer": {
+      "test": 15,
+      "train": 65,
+      "val": 15
+    },
+    "Vehicle idling": {
+      "test": 17,
+      "train": 78,
+      "val": 17
+    },
+    "Vehicle pass-by": {
+      "test": 34,
+      "train": 150,
+      "val": 33
+    },
+    "Voices": {
+      "test": 285,
+      "train": 1330,
+      "val": 285
+    },
+    "Wind turbine": {
+      "test": 15,
+      "train": 70,
+      "val": 15
+    },
+    "Workshop": {
+      "test": 30,
+      "train": 157,
+      "val": 31
+    }
+  }
+}

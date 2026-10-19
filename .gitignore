@@ -1,0 +1,31 @@
+# data (CC-BY-NC-SA — do not redistribute raw audio)
+data/
+*.wav
+*.zip
+*.npy
+*.npz
+
+# training artifacts
+results/checkpoints/
+*.pt
+*.pth
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# os / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# local logs
+results/logs/download.log
+
+# packaged code for Colab upload
+dist/
+
+# course materials (not redistributed)
+*.pdf

@@ -1,0 +1,3 @@
+# Split files are identified by the md5 of their exact bytes (logs record split_md5).
+# Store them byte-for-byte so a clone on any OS reproduces the same fingerprint.
+splits/*.csv -text
