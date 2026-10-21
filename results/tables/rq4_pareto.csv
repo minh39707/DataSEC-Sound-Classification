@@ -1,0 +1,4 @@
+model,clean_f1,mean_corrupted_f1,params_M,MACs_M,latency_ms,train_min,pareto_clean_f1_latency_ms,pareto_mean_corrupted_f1_latency_ms,pareto_clean_f1_MACs_M,pareto_mean_corrupted_f1_MACs_M,pareto_clean_f1_params_M,pareto_mean_corrupted_f1_params_M,pareto_clean_f1_train_min,pareto_mean_corrupted_f1_train_min
+small_cnn,0.8761586875505182,0.5452714754505973,0.393974,198.40768,1.1830499982655358,3.056758721669515,True,True,False,False,True,True,True,False
+mobilenetv3s,0.9013792541082492,0.5862252752891214,1.540406,18.114744,6.87833333601399,3.7186787486076356,True,True,True,True,True,True,True,True
+crnn,0.8750764984221436,0.5644085329452827,0.868822,486.56896,1.4721333354827948,3.0026471177736918,False,True,False,False,False,True,True,True

@@ -1,0 +1,41 @@
+perturbation,true_class,pred_class,extra_clips_per_run
+noise,Voices,Train,148.77777777777777
+noise,Music,Train,60.333333333333336
+noise,Voices,Vehicle idling,57.333333333333336
+noise,Voices,Music,25.555555555555557
+noise,Music,Lawn mower brush cutter and olive shaker,20.0
+noise,Thunder fireworks and gunshot,Train,18.0
+noise,Voices,Vehicle pass-by,15.777777777777779
+noise,Vehicle pass-by,Train,14.444444444444445
+noise,Voices,Jet aircrafts,13.333333333333334
+noise,Glass breaking,Train,9.0
+gain,Crows seagulls and magpies,Sirens and alarms,1.0
+gain,Train,Jet aircrafts,0.5555555555555556
+gain,Vehicle pass-by,Train,0.4444444444444444
+gain,Voices,Music,0.4444444444444444
+gain,Vehicle idling,Glass breaking,0.4444444444444444
+gain,Cat fights and moans,Sirens and alarms,0.4444444444444444
+gain,Vacuum cleaner fan and hairdryer,Jet aircrafts,0.3333333333333333
+gain,Jet aircrafts,Vehicle idling,0.3333333333333333
+gain,Vehicle idling,Music,0.3333333333333333
+gain,Vehicle pass-by,Workshop,0.3333333333333333
+tmask,Voices,Glass breaking,63.22222222222222
+tmask,Voices,Horn,22.22222222222222
+tmask,Music,Voices,18.666666666666668
+tmask,Music,Horn,14.666666666666666
+tmask,Jet aircrafts,Thunder fireworks and gunshot,11.333333333333334
+tmask,Propeller aircrafts,Thunder fireworks and gunshot,9.11111111111111
+tmask,Voices,Wind turbine,8.88888888888889
+tmask,Lawn mower brush cutter and olive shaker,Vehicle pass-by,8.555555555555555
+tmask,Music,Thunder fireworks and gunshot,7.777777777777778
+tmask,Voices,Thunder fireworks and gunshot,7.444444444444445
+fmask,Voices,Music,52.888888888888886
+fmask,Voices,Dog barkings and howlings,27.666666666666668
+fmask,Voices,Birds,21.666666666666668
+fmask,Music,Sirens and alarms,20.11111111111111
+fmask,Voices,Bells,17.11111111111111
+fmask,Music,Cicadas and crickets,16.0
+fmask,Music,Vacuum cleaner fan and hairdryer,15.222222222222221
+fmask,Voices,Horn,14.222222222222221
+fmask,Voices,Vehicle pass-by,9.666666666666666
+fmask,Voices,Sirens and alarms,9.555555555555555

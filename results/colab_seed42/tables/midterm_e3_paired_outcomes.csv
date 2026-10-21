@@ -1,0 +1,4 @@
+group,n,both_correct,only_CNN_correct,only_CRNN_correct,both_wrong,delta_F1_CRNN_minus_CNN,mcnemar_exact_p
+short (<=5 s),309,298,4,3,4,-0.0035132621916924567,1.0
+medium (5-15 s),140,115,12,4,9,-0.1174433591100259,0.076812744140625
+long (>15 s),309,258,25,6,20,-0.08384896406821096,0.0008779102936387062

@@ -155,6 +155,7 @@ def main() -> None:
     z = z - z.mean(axis=0)
     z = z.div(np.linalg.norm(z, axis=1), axis=0)
     sim = pd.DataFrame(z.values @ z.values.T, index=classes, columns=classes)
+    sim.to_csv(tab_dir / "eda_spectral_similarity.csv")  # full matrix, used by midterm_questions.py (E2)
     g = sns.clustermap(sim, cmap="vlag", center=0, figsize=(11, 11), cbar_kws={"label": "cosine similarity"})
     g.savefig(fig_dir / "eda_spectral_similarity.png", dpi=150); plt.close("all")
 

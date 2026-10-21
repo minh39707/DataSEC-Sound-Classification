@@ -24,10 +24,15 @@ class LogMel(nn.Module):
         self.mean.fill_(mean)
         self.std.fill_(std)
 
-    def log_mel(self, wav: torch.Tensor) -> torch.Tensor:
-        """Un-normalized log-Mel in dB, shape (B, n_mels, frames)."""
+    def log_mel(self, wav: torch.Tensor, power_hook=None) -> torch.Tensor:
+        """Un-normalized log-Mel in dB, shape (B, n_mels, frames).
+
+        power_hook(spec) optionally corrupts the Mel power (B, n_mels, frames) before the log (test-time only).
+        """
         with torch.autocast(device_type=wav.device.type, enabled=False):
             spec = self.mel(wav.float())
+            if power_hook is not None:
+                spec = power_hook(spec)
             db = 10.0 * torch.log10(spec.clamp_min(1e-10))
             if self.top_db is not None:
                 # per-clip floor relative to that clip's peak

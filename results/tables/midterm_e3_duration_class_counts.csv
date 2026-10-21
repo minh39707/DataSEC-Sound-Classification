@@ -1,4 +1,4 @@
-macro_class,ngắn (≤5 s),vừa (>5–15 s),dài (>15 s)
+macro_class,short (<=5 s),medium (5-15 s),long (>15 s)
 Bells,0,0,11
 Birds,4,1,4
 Cat fights and moans,0,3,5

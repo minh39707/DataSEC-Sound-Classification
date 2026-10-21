@@ -1,0 +1,7 @@
+model,seed,subset,n,test_acc,test_macro_f1
+crnn,42,all test clips,758,0.9024,0.8154
+crnn,42,without overlapping clips,756,0.9034,0.8168
+mobilenetv3s,42,all test clips,758,0.9248,0.8531
+mobilenetv3s,42,without overlapping clips,756,0.9259,0.8544
+small_cnn,42,all test clips,758,0.9393,0.8841
+small_cnn,42,without overlapping clips,756,0.9392,0.8833

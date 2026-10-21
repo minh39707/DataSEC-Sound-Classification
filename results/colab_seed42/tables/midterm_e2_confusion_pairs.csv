@@ -1,0 +1,106 @@
+model,A,B,A_to_B,B_to_A,n_A,n_B,total_errors,rate_A_to_B,rate_B_to_A,pair_rate,direction
+small_cnn,Bells,Music,0,1,11,150,1,0.0,0.006666666666666667,0.0033333333333333335,one-way
+small_cnn,Cat fights and moans,Workshop,0,1,8,30,1,0.0,0.03333333333333333,0.016666666666666666,one-way
+small_cnn,Chicken coop,Crows seagulls and magpies,0,1,9,17,1,0.0,0.058823529411764705,0.029411764705882353,one-way
+small_cnn,Crows seagulls and magpies,Sirens and alarms,1,0,17,17,1,0.058823529411764705,0.0,0.029411764705882353,one-way
+small_cnn,Crows seagulls and magpies,Thunder fireworks and gunshot,1,0,17,35,1,0.058823529411764705,0.0,0.029411764705882353,one-way
+small_cnn,Dog barkings and howlings,Voices,0,1,11,285,1,0.0,0.0035087719298245615,0.0017543859649122807,one-way
+small_cnn,Glass breaking,Vehicle idling,0,1,17,17,1,0.0,0.058823529411764705,0.029411764705882353,one-way
+small_cnn,Glass breaking,Vehicle pass-by,1,0,17,34,1,0.058823529411764705,0.0,0.029411764705882353,one-way
+small_cnn,Horn,Thunder fireworks and gunshot,1,0,8,35,1,0.125,0.0,0.0625,one-way
+small_cnn,Jet aircrafts,Propeller aircrafts,1,1,15,15,2,0.06666666666666667,0.06666666666666667,0.06666666666666667,two-way
+small_cnn,Jet aircrafts,Train,1,1,15,11,2,0.06666666666666667,0.09090909090909091,0.0787878787878788,two-way
+small_cnn,Jet aircrafts,Vehicle pass-by,0,2,15,34,2,0.0,0.058823529411764705,0.029411764705882353,one-way
+small_cnn,Jet aircrafts,Wind turbine,1,0,15,15,1,0.06666666666666667,0.0,0.03333333333333333,one-way
+small_cnn,Lawn mower brush cutter and olive shaker,Vacuum cleaner fan and hairdryer,2,0,18,15,2,0.1111111111111111,0.0,0.05555555555555555,one-way
+small_cnn,Lawn mower brush cutter and olive shaker,Vehicle idling,1,2,18,17,3,0.05555555555555555,0.11764705882352941,0.08660130718954248,two-way
+small_cnn,Lawn mower brush cutter and olive shaker,Vehicle pass-by,0,2,18,34,2,0.0,0.058823529411764705,0.029411764705882353,one-way
+small_cnn,Music,Propeller aircrafts,1,0,150,15,1,0.006666666666666667,0.0,0.0033333333333333335,one-way
+small_cnn,Music,Sirens and alarms,1,0,150,17,1,0.006666666666666667,0.0,0.0033333333333333335,one-way
+small_cnn,Propeller aircrafts,Train,1,1,15,11,2,0.06666666666666667,0.09090909090909091,0.0787878787878788,two-way
+small_cnn,Propeller aircrafts,Vehicle pass-by,0,1,15,34,1,0.0,0.029411764705882353,0.014705882352941176,one-way
+small_cnn,Thunder fireworks and gunshot,Train,0,1,35,11,1,0.0,0.09090909090909091,0.045454545454545456,one-way
+small_cnn,Thunder fireworks and gunshot,Vehicle pass-by,0,1,35,34,1,0.0,0.029411764705882353,0.014705882352941176,one-way
+small_cnn,Train,Vacuum cleaner fan and hairdryer,1,1,11,15,2,0.09090909090909091,0.06666666666666667,0.0787878787878788,two-way
+small_cnn,Train,Vehicle pass-by,0,2,11,34,2,0.0,0.058823529411764705,0.029411764705882353,one-way
+small_cnn,Train,Workshop,0,1,11,30,1,0.0,0.03333333333333333,0.016666666666666666,one-way
+small_cnn,Vacuum cleaner fan and hairdryer,Vehicle idling,3,0,15,17,3,0.2,0.0,0.1,one-way
+small_cnn,Vacuum cleaner fan and hairdryer,Workshop,1,1,15,30,2,0.06666666666666667,0.03333333333333333,0.05,two-way
+small_cnn,Vehicle idling,Vehicle pass-by,0,2,17,34,2,0.0,0.058823529411764705,0.029411764705882353,one-way
+small_cnn,Vehicle idling,Workshop,0,2,17,30,2,0.0,0.06666666666666667,0.03333333333333333,one-way
+small_cnn,Vehicle pass-by,Workshop,1,1,34,30,2,0.029411764705882353,0.03333333333333333,0.03137254901960784,two-way
+mobilenetv3s,Bells,Music,0,2,11,150,2,0.0,0.013333333333333334,0.006666666666666667,one-way
+mobilenetv3s,Birds,Crows seagulls and magpies,0,1,9,17,1,0.0,0.058823529411764705,0.029411764705882353,one-way
+mobilenetv3s,Birds,Vehicle pass-by,0,1,9,34,1,0.0,0.029411764705882353,0.014705882352941176,one-way
+mobilenetv3s,Birds,Workshop,1,0,9,30,1,0.1111111111111111,0.0,0.05555555555555555,one-way
+mobilenetv3s,Cat fights and moans,Sirens and alarms,1,0,8,17,1,0.125,0.0,0.0625,one-way
+mobilenetv3s,Chicken coop,Dog barkings and howlings,0,1,9,11,1,0.0,0.09090909090909091,0.045454545454545456,one-way
+mobilenetv3s,Crows seagulls and magpies,Sirens and alarms,1,0,17,17,1,0.058823529411764705,0.0,0.029411764705882353,one-way
+mobilenetv3s,Dog barkings and howlings,Voices,2,0,11,285,2,0.18181818181818182,0.0,0.09090909090909091,one-way
+mobilenetv3s,Glass breaking,Thunder fireworks and gunshot,1,0,17,35,1,0.058823529411764705,0.0,0.029411764705882353,one-way
+mobilenetv3s,Glass breaking,Vehicle idling,0,1,17,17,1,0.0,0.058823529411764705,0.029411764705882353,one-way
+mobilenetv3s,Horn,Voices,1,1,8,285,2,0.125,0.0035087719298245615,0.06425438596491229,two-way
+mobilenetv3s,Jet aircrafts,Propeller aircrafts,4,0,15,15,4,0.26666666666666666,0.0,0.13333333333333333,one-way
+mobilenetv3s,Jet aircrafts,Train,1,2,15,11,3,0.06666666666666667,0.18181818181818182,0.12424242424242424,two-way
+mobilenetv3s,Jet aircrafts,Vehicle pass-by,1,1,15,34,2,0.06666666666666667,0.029411764705882353,0.048039215686274506,two-way
+mobilenetv3s,Jet aircrafts,Wind turbine,1,0,15,15,1,0.06666666666666667,0.0,0.03333333333333333,one-way
+mobilenetv3s,Lawn mower brush cutter and olive shaker,Music,1,1,18,150,2,0.05555555555555555,0.006666666666666667,0.03111111111111111,two-way
+mobilenetv3s,Lawn mower brush cutter and olive shaker,Vehicle idling,2,0,18,17,2,0.1111111111111111,0.0,0.05555555555555555,one-way
+mobilenetv3s,Lawn mower brush cutter and olive shaker,Vehicle pass-by,0,3,18,34,3,0.0,0.08823529411764706,0.04411764705882353,one-way
+mobilenetv3s,Lawn mower brush cutter and olive shaker,Workshop,2,0,18,30,2,0.1111111111111111,0.0,0.05555555555555555,one-way
+mobilenetv3s,Music,Propeller aircrafts,2,0,150,15,2,0.013333333333333334,0.0,0.006666666666666667,one-way
+mobilenetv3s,Music,Sirens and alarms,1,0,150,17,1,0.006666666666666667,0.0,0.0033333333333333335,one-way
+mobilenetv3s,Music,Vacuum cleaner fan and hairdryer,0,1,150,15,1,0.0,0.06666666666666667,0.03333333333333333,one-way
+mobilenetv3s,Propeller aircrafts,Train,2,1,15,11,3,0.13333333333333333,0.09090909090909091,0.11212121212121212,two-way
+mobilenetv3s,Propeller aircrafts,Vacuum cleaner fan and hairdryer,0,1,15,15,1,0.0,0.06666666666666667,0.03333333333333333,one-way
+mobilenetv3s,Thunder fireworks and gunshot,Vacuum cleaner fan and hairdryer,1,0,35,15,1,0.02857142857142857,0.0,0.014285714285714285,one-way
+mobilenetv3s,Thunder fireworks and gunshot,Vehicle pass-by,0,1,35,34,1,0.0,0.029411764705882353,0.014705882352941176,one-way
+mobilenetv3s,Thunder fireworks and gunshot,Workshop,1,0,35,30,1,0.02857142857142857,0.0,0.014285714285714285,one-way
+mobilenetv3s,Train,Vacuum cleaner fan and hairdryer,1,1,11,15,2,0.09090909090909091,0.06666666666666667,0.0787878787878788,two-way
+mobilenetv3s,Train,Vehicle idling,1,0,11,17,1,0.09090909090909091,0.0,0.045454545454545456,one-way
+mobilenetv3s,Train,Vehicle pass-by,0,1,11,34,1,0.0,0.029411764705882353,0.014705882352941176,one-way
+mobilenetv3s,Vacuum cleaner fan and hairdryer,Vehicle idling,0,1,15,17,1,0.0,0.058823529411764705,0.029411764705882353,one-way
+mobilenetv3s,Vacuum cleaner fan and hairdryer,Workshop,2,0,15,30,2,0.13333333333333333,0.0,0.06666666666666667,one-way
+mobilenetv3s,Vehicle idling,Workshop,3,0,17,30,3,0.17647058823529413,0.0,0.08823529411764706,one-way
+mobilenetv3s,Vehicle pass-by,Workshop,3,0,34,30,3,0.08823529411764706,0.0,0.04411764705882353,one-way
+crnn,Bells,Horn,1,0,11,8,1,0.09090909090909091,0.0,0.045454545454545456,one-way
+crnn,Bells,Music,0,4,11,150,4,0.0,0.02666666666666667,0.013333333333333334,one-way
+crnn,Bells,Sirens and alarms,3,0,11,17,3,0.2727272727272727,0.0,0.13636363636363635,one-way
+crnn,Birds,Music,1,0,9,150,1,0.1111111111111111,0.0,0.05555555555555555,one-way
+crnn,Chicken coop,Dog barkings and howlings,0,1,9,11,1,0.0,0.09090909090909091,0.045454545454545456,one-way
+crnn,Chicken coop,Sirens and alarms,0,1,9,17,1,0.0,0.058823529411764705,0.029411764705882353,one-way
+crnn,Chicken coop,Voices,0,1,9,285,1,0.0,0.0035087719298245615,0.0017543859649122807,one-way
+crnn,Crows seagulls and magpies,Sirens and alarms,0,1,17,17,1,0.0,0.058823529411764705,0.029411764705882353,one-way
+crnn,Crows seagulls and magpies,Train,0,1,17,11,1,0.0,0.09090909090909091,0.045454545454545456,one-way
+crnn,Crows seagulls and magpies,Vehicle idling,0,1,17,17,1,0.0,0.058823529411764705,0.029411764705882353,one-way
+crnn,Crows seagulls and magpies,Voices,1,0,17,285,1,0.058823529411764705,0.0,0.029411764705882353,one-way
+crnn,Crows seagulls and magpies,Workshop,0,1,17,30,1,0.0,0.03333333333333333,0.016666666666666666,one-way
+crnn,Dog barkings and howlings,Music,0,1,11,150,1,0.0,0.006666666666666667,0.0033333333333333335,one-way
+crnn,Glass breaking,Voices,1,0,17,285,1,0.058823529411764705,0.0,0.029411764705882353,one-way
+crnn,Horn,Vehicle pass-by,0,1,8,34,1,0.0,0.029411764705882353,0.014705882352941176,one-way
+crnn,Horn,Voices,1,0,8,285,1,0.125,0.0,0.0625,one-way
+crnn,Jet aircrafts,Propeller aircrafts,4,1,15,15,5,0.26666666666666666,0.06666666666666667,0.16666666666666666,two-way
+crnn,Jet aircrafts,Thunder fireworks and gunshot,0,1,15,35,1,0.0,0.02857142857142857,0.014285714285714285,one-way
+crnn,Jet aircrafts,Train,1,2,15,11,3,0.06666666666666667,0.18181818181818182,0.12424242424242424,two-way
+crnn,Jet aircrafts,Vehicle pass-by,0,4,15,34,4,0.0,0.11764705882352941,0.058823529411764705,one-way
+crnn,Lawn mower brush cutter and olive shaker,Train,1,0,18,11,1,0.05555555555555555,0.0,0.027777777777777776,one-way
+crnn,Lawn mower brush cutter and olive shaker,Vacuum cleaner fan and hairdryer,2,0,18,15,2,0.1111111111111111,0.0,0.05555555555555555,one-way
+crnn,Lawn mower brush cutter and olive shaker,Vehicle idling,6,0,18,17,6,0.3333333333333333,0.0,0.16666666666666666,one-way
+crnn,Lawn mower brush cutter and olive shaker,Vehicle pass-by,0,1,18,34,1,0.0,0.029411764705882353,0.014705882352941176,one-way
+crnn,Music,Sirens and alarms,2,0,150,17,2,0.013333333333333334,0.0,0.006666666666666667,one-way
+crnn,Music,Vehicle idling,0,1,150,17,1,0.0,0.058823529411764705,0.029411764705882353,one-way
+crnn,Music,Workshop,0,1,150,30,1,0.0,0.03333333333333333,0.016666666666666666,one-way
+crnn,Propeller aircrafts,Train,0,1,15,11,1,0.0,0.09090909090909091,0.045454545454545456,one-way
+crnn,Propeller aircrafts,Vehicle idling,1,1,15,17,2,0.06666666666666667,0.058823529411764705,0.06274509803921569,two-way
+crnn,Propeller aircrafts,Vehicle pass-by,0,1,15,34,1,0.0,0.029411764705882353,0.014705882352941176,one-way
+crnn,Propeller aircrafts,Wind turbine,1,0,15,15,1,0.06666666666666667,0.0,0.03333333333333333,one-way
+crnn,Thunder fireworks and gunshot,Train,1,0,35,11,1,0.02857142857142857,0.0,0.014285714285714285,one-way
+crnn,Thunder fireworks and gunshot,Vehicle idling,1,0,35,17,1,0.02857142857142857,0.0,0.014285714285714285,one-way
+crnn,Thunder fireworks and gunshot,Vehicle pass-by,0,1,35,34,1,0.0,0.029411764705882353,0.014705882352941176,one-way
+crnn,Train,Vacuum cleaner fan and hairdryer,0,1,11,15,1,0.0,0.06666666666666667,0.03333333333333333,one-way
+crnn,Train,Vehicle pass-by,0,1,11,34,1,0.0,0.029411764705882353,0.014705882352941176,one-way
+crnn,Vacuum cleaner fan and hairdryer,Vehicle idling,3,1,15,17,4,0.2,0.058823529411764705,0.12941176470588237,two-way
+crnn,Vacuum cleaner fan and hairdryer,Workshop,2,6,15,30,8,0.13333333333333333,0.2,0.16666666666666669,two-way
+crnn,Vehicle idling,Vehicle pass-by,0,1,17,34,1,0.0,0.029411764705882353,0.014705882352941176,one-way
+crnn,Vehicle idling,Workshop,0,2,17,30,2,0.0,0.06666666666666667,0.03333333333333333,one-way
+crnn,Vehicle pass-by,Workshop,0,1,34,30,1,0.0,0.03333333333333333,0.016666666666666666,one-way

@@ -1,0 +1,45 @@
+sample_id,true_class,duration_s,small_cnn,small_cnn_p_pred,mobilenetv3s,mobilenetv3s_p_pred,crnn,crnn_p_pred,n_models_wrong
+Bells-0049,Bells,19.228,Propeller aircrafts,0.457878,Propeller aircrafts,0.750531,Propeller aircrafts,0.631897,3
+Glass breaking-0001,Glass breaking,2.719,Workshop,0.328098,Train,0.733819,Thunder fireworks and gunshot,0.721787,3
+Jet aircrafts-0003,Jet aircrafts,8.532,Train,0.817381,Vehicle pass-by,0.20183,Train,0.573143,3
+Jet aircrafts-0031,Jet aircrafts,70.387,Thunder fireworks and gunshot,0.260804,Wind turbine,0.585215,Wind turbine,0.608928,3
+Lawn mower-0007,Lawn mower brush cutter and olive shaker,17.283,Vehicle idling,0.438196,Vehicle idling,0.44185,Vehicle idling,0.946171,3
+Music-0004,Music,30.0,Sirens and alarms,0.841332,Sirens and alarms,0.96241,Sirens and alarms,0.242095,3
+Music-0049,Music,30.0,Propeller aircrafts,0.951601,Jet aircrafts,0.723964,Propeller aircrafts,0.986497,3
+Music-0077,Music,30.0,Bells,0.730144,Bells,0.948651,Bells,0.92582,3
+Train-0038,Train,19.382,Vacuum cleaner fan and hairdryer,0.477981,Vacuum cleaner fan and hairdryer,0.412069,Vacuum cleaner fan and hairdryer,0.279072,3
+fan-0023,Vacuum cleaner fan and hairdryer,66.005,Vehicle idling,0.687907,Music,0.958452,Vehicle idling,0.987384,3
+fan-0030,Vacuum cleaner fan and hairdryer,46.296,Train,0.418297,Train,0.319064,Jet aircrafts,0.9255,3
+vacuum cleaner-0009,Vacuum cleaner fan and hairdryer,47.16,Workshop,0.639147,Workshop,0.642172,Workshop,0.956622,3
+car truck idling-0029,Vehicle idling,12.5,Lawn mower brush cutter and olive shaker,0.850073,Workshop,0.703235,Lawn mower brush cutter and olive shaker,0.819413,3
+car truck idling-0046,Vehicle idling,30.153,Lawn mower brush cutter and olive shaker,0.384474,Lawn mower brush cutter and olive shaker,0.931713,Lawn mower brush cutter and olive shaker,0.70533,3
+motorbike idling-0013,Vehicle idling,12.072,Glass breaking,0.926779,Workshop,0.905894,Glass breaking,0.548745,3
+car pass-by-0017,Vehicle pass-by,3.138,Workshop,0.717134,Music,0.31966,Horn,0.96992,3
+motorbike pass-by-0015,Vehicle pass-by,9.058,Lawn mower brush cutter and olive shaker,0.738699,Workshop,0.334106,Lawn mower brush cutter and olive shaker,0.96739,3
+motorbike pass-by-0026,Vehicle pass-by,10.253,Propeller aircrafts,0.42278,Lawn mower brush cutter and olive shaker,0.560347,Workshop,0.795239,3
+motorbike pass-by-0047,Vehicle pass-by,22.245,Lawn mower brush cutter and olive shaker,0.391995,Lawn mower brush cutter and olive shaker,0.999305,Vehicle idling,0.496944,3
+truck pass-by-0012,Vehicle pass-by,83.458,Train,0.571649,Train,0.952646,Jet aircrafts,0.428658,3
+truck pass-by-0041,Vehicle pass-by,7.778,Jet aircrafts,0.517213,Vehicle idling,0.35908,Jet aircrafts,0.89849,3
+jackhammer-0003,Workshop,77.586,Vehicle idling,0.925965,Vehicle idling,0.465304,Vehicle idling,0.775573,3
+jackhammer-0006,Workshop,5.855,Train,0.459265,Lawn mower brush cutter and olive shaker,0.533298,Propeller aircrafts,0.606228,3
+saw-0033,Workshop,18.205,Vacuum cleaner fan and hairdryer,0.718502,Vacuum cleaner fan and hairdryer,0.50713,Vacuum cleaner fan and hairdryer,0.858939,3
+Crows-0022,Crows seagulls and magpies,2.559,Voices,0.277857,Crows seagulls and magpies,0.489006,Dog barkings and howlings,0.320997,2
+Jet aircrafts-0018,Jet aircrafts,29.234,Propeller aircrafts,0.533947,Jet aircrafts,0.861652,Propeller aircrafts,0.866899,2
+Jet aircrafts-0019,Jet aircrafts,19.987,Propeller aircrafts,0.577771,Train,0.558736,Jet aircrafts,0.67764,2
+Brush cutter-0003,Lawn mower brush cutter and olive shaker,57.165,Music,0.288113,Lawn mower brush cutter and olive shaker,0.835682,Workshop,0.425056,2
+Lawn mower-0013,Lawn mower brush cutter and olive shaker,36.626,Vehicle pass-by,0.263244,Lawn mower brush cutter and olive shaker,0.989589,Vacuum cleaner fan and hairdryer,0.865973,2
+Music-0618,Music,30.0,Music,0.788827,Birds,0.868824,Propeller aircrafts,0.927431,2
+Helicopters-0035,Propeller aircrafts,8.701,Vehicle idling,0.389026,Train,0.582303,Propeller aircrafts,0.552955,2
+Train-0005,Train,27.775,Jet aircrafts,0.692037,Train,0.78374,Jet aircrafts,0.719226,2
+Train-0010,Train,10.029,Train,0.807324,Vehicle idling,0.782846,Vehicle idling,0.414773,2
+Train-0011,Train,21.045,Propeller aircrafts,0.69716,Train,0.317969,Propeller aircrafts,0.472045,2
+fan-0019,Vacuum cleaner fan and hairdryer,25.205,Propeller aircrafts,0.347654,Vacuum cleaner fan and hairdryer,0.556333,Propeller aircrafts,0.723404,2
+car pass-by-0011,Vehicle pass-by,1.757,Thunder fireworks and gunshot,0.702251,Thunder fireworks and gunshot,0.880373,Vehicle pass-by,0.648769,2
+motorbike pass-by-0042,Vehicle pass-by,9.982,Propeller aircrafts,0.941759,Vehicle pass-by,0.593974,Propeller aircrafts,0.545932,2
+motorbike pass-by-0052,Vehicle pass-by,8.452,Lawn mower brush cutter and olive shaker,0.450576,Vehicle pass-by,0.86017,Lawn mower brush cutter and olive shaker,0.438767,2
+truck pass-by-0010,Vehicle pass-by,10.568,Vehicle idling,0.37829,Vehicle idling,0.698139,Vehicle pass-by,0.434262,2
+truck pass-by-0040,Vehicle pass-by,12.797,Vehicle pass-by,0.546172,Train,0.857695,Train,0.687389,2
+air compressor-0012,Workshop,36.2,Train,0.45838,Workshop,0.864126,Vacuum cleaner fan and hairdryer,0.655059,2
+drill-0005,Workshop,10.145,Lawn mower brush cutter and olive shaker,0.542302,Lawn mower brush cutter and olive shaker,0.59769,Workshop,0.97767,2
+drill-0008,Workshop,12.526,Cat fights and moans,0.712919,Workshop,0.999141,Crows seagulls and magpies,0.716568,2
+drill-0030,Workshop,32.13,Vehicle pass-by,0.472497,Workshop,0.867613,Vehicle pass-by,0.83541,2

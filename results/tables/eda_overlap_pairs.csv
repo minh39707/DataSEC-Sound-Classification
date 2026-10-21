@@ -1,0 +1,25 @@
+sample_a,sample_b,relation,shared_s,macro_class,split_a,split_b,crosses_split
+Music-0756,Music-0762,identical file,30.0,Music,train,train,False
+Glass breaking-0097,Glass breaking-0098,identical file,8.68,Glass breaking,train,train,False
+Music-0399,Music-0400,identical file,30.0,Music,val,val,False
+Crows-0035,Crows-0050,identical file,17.83,Crows seagulls and magpies,train,train,False
+Music-0642,Music-0663,identical file,30.01,Music,val,val,False
+Music-0641,Music-0662,identical file,30.01,Music,val,val,False
+Music-0477,Music-0479,identical file,30.0,Music,train,train,False
+Music-0644,Music-0665,identical file,30.01,Music,train,train,False
+Music-0640,Music-0661,identical file,30.01,Music,train,train,False
+Music-0634,Music-0694,identical file,30.0,Music,test,test,False
+Music-0769,Music-0773,identical file,30.0,Music,test,test,False
+Music-0440,Music-0446,identical file,30.65,Music,train,train,False
+Music-0643,Music-0664,identical file,30.01,Music,test,test,False
+Music-0645,Music-0666,identical file,30.01,Music,train,train,False
+Music-0658,Music-0918,identical file,30.01,Music,train,train,False
+Music-0883,Music-0884,identical file,30.0,Music,train,train,False
+Crows-0017,Crows-0016,prefix of the longer clip,33.91,Crows seagulls and magpies,test,train,True
+Magpies-0004,Magpies-0003,prefix of the longer clip,28.3,Crows seagulls and magpies,train,train,False
+Music-0875,Music-0876,same first seconds,9.69,Music,train,train,False
+Olive shaker-0014,Olive shaker-0015,same first seconds,4.8,Lawn mower brush cutter and olive shaker,train,test,True
+Seagulls-0008,Seagulls-0007,prefix of the longer clip,28.34,Crows seagulls and magpies,train,train,False
+Magpies-0009,Magpies-0008,prefix of the longer clip,42.68,Crows seagulls and magpies,train,train,False
+grinder-0032,grinder-0031,same first seconds,3.93,Workshop,train,train,False
+Dog barkings and howlings-0042,Dog barkings and howlings-0002,prefix of the longer clip,2.35,Dog barkings and howlings,train,train,False

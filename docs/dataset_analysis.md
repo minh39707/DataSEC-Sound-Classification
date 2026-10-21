@@ -157,3 +157,66 @@ M[m,b] = 10 \log_{10}\!\Big(\sum_k H_b[k]\, S[m,k] + \varepsilon\Big)$$
   above; same idea), with an 80 dB floor below each clip's peak and train-set mean/std normalization.
 
 ![Mel filterbank](../results/figures/eda_mel_filterbank.png)
+
+## A8. Data quality and curation artefacts
+
+The checks in this section are produced by [`scripts/eda_quality.py`](../scripts/eda_quality.py) and
+[`scripts/leakage_sensitivity.py`](../scripts/leakage_sensitivity.py). They describe how DataSEC was assembled, not
+how the sounds behave, and a model can pick them up as shortcuts.
+
+### Clips that share audio
+
+[`eda_overlap_pairs.csv`](../results/tables/eda_overlap_pairs.csv) lists **24 pairs** of clips that share audio:
+
+| Relation | Pairs | Examples |
+|---|---:|---|
+| Identical file (md5) | 16 | 14 in Music |
+| Shorter clip is an exact prefix of the longer one | 5 | e.g. Dog barkings-0042 inside Dog barkings-0002 |
+| Same first seconds | 3 | e.g. Olive shaker-0014/0015 share 4.8 s |
+
+The fixed split groups only the identical files, so two pairs cross partitions:
+
+- `Crows-0017` (test) is the first 33.9 s of `Crows-0016` (train);
+- `Olive shaker-0015` (test) shares its first 4.8 s with `Olive shaker-0014` (train).
+
+The split is **not** regenerated, because it is fixed for the Midterm and must be reused for the Final. Instead,
+[`midterm_leakage_sensitivity.csv`](../results/tables/midterm_leakage_sensitivity.csv) re-scores the saved test
+predictions without these two clips:
+
+| Model | Test macro-F1, all 758 clips | Without the 2 clips | Change |
+|---|---:|---:|---:|
+| `small_cnn` | 0.8841 | 0.8833 | −0.0008 |
+| `mobilenetv3s` | 0.8531 | 0.8544 | +0.0013 |
+| `crnn` | 0.8154 | 0.8168 | +0.0014 |
+
+The change is at most 0.0014, so the leak does not affect the model ranking. It is reported as a limitation.
+
+There is also no recording/session ID in the metadata. Segments cut from one long recording that do *not* share their
+first second cannot be detected, so test scores may still be slightly optimistic.
+
+### Curation artefacts per class
+
+Summary table: [`eda_signal_quality.csv`](../results/tables/eda_signal_quality.csv).
+
+![signal quality](../results/figures/eda_signal_quality.png)
+
+- **Source bandwidth.** 88 % of Voices clips and 72 % of Music clips have a hard spectral cliff at **11.025 kHz**:
+  they were 22.05 kHz audio before being upsampled to 44.1 kHz. Most field-recording classes extend to 16–22 kHz.
+  At 44.1 kHz a model could recognise Voices and Music by "no energy above 11 kHz". The 22.05 kHz pipeline removes
+  this cue, because every clip is then band-limited at the same Nyquist frequency.
+- **High-frequency energy.** 23 % of clips have more than 1 % of their energy above 8 kHz, and 10 % above
+  11.025 kHz. For Glass breaking the median share above 8 kHz is 24 %. Resampling to 16 kHz would discard part of
+  these classes, which supports the 22.05 kHz choice.
+- **Peak normalisation differs by class.** The share of clips peaking at 0 dBFS is 76 % for Glass breaking and 66 %
+  for Voices, against ≤ 1 % for Crows, Cicadas, Wind turbine and Cat fights. Absolute level therefore correlates with
+  the class because of curation, not acoustics.
+  - The pipeline keeps level information: its per-clip 80 dB floor is relative, and normalisation is global.
+  - This makes the Final's gain perturbations a real test of whether the models rely on level.
+- **Fixed-length segments.**
+  - 93 % of Wind turbine clips are exactly 10.0 s.
+  - 56 % of Glass breaking clips are exactly 60.5 s.
+  - 96 % of Music clips are 30 s.
+
+  This suggests that these classes come from a few long recordings cut into equal pieces. Wind turbine is also
+  unusually homogeneous: its median peak is −15 dBFS and nearly all energy lies below about 200 Hz. Its near-perfect
+  test F1 (0.97) may reflect this homogeneity more than generalisation.

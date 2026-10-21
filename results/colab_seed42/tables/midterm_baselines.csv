@@ -1,0 +1,4 @@
+model,seed,val_acc,val_macro_f1,test_acc,test_macro_f1,params_M,MACs_M,latency_ms,train_time_min,best_epoch,epochs_run,gpu
+small_cnn,42,0.9274,0.8556,0.9393,0.8841,0.394,198.4077,1.3238,4.9961,45,50,Tesla T4
+mobilenetv3s,42,0.9314,0.8824,0.9248,0.8531,1.5404,18.1147,5.7829,3.9598,22,30,Tesla T4
+crnn,42,0.8997,0.8026,0.9024,0.8154,0.8688,486.569,2.1938,2.0835,12,20,Tesla T4

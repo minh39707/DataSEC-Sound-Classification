@@ -38,7 +38,36 @@ python -m src.evaluate --model crnn --seed 42 --split test
 python scripts/eda.py                  # part A: dataset statistics and figures -> results/*/eda_*
 python scripts/make_baseline_table.py  # part D: baseline table -> results/tables/midterm_baselines.csv
 python scripts/plot_metrics.py         # part D: per-class F1 + confusion matrices -> results/figures/
+python scripts/eda_quality.py          # part A: overlapping clips, level, source bandwidth -> eda_overlap_pairs / eda_signal_quality
+python scripts/leakage_sensitivity.py  # re-score test predictions without clips that share audio with train
+python scripts/midterm_questions.py    # part E: questions E1-E4 -> results/*/midterm_e*
 ```
+
+```bash
+# 5. Final, RQ1: test-time corruptions (no retraining; needs checkpoints for seeds 42/43/44 of all three models)
+python scripts/run_robustness.py       # 3 models x 3 seeds x (clean + 12 corruptions) -> results/predictions/, results/tables/rq1_metrics.csv
+python scripts/analyze_robustness.py   # delta-F1, bootstrap CIs, per-class, confusion shifts, flips -> results/tables/rq1_*, results/figures/rq1_*
+python scripts/pareto_rq4.py           # extension RQ4: accuracy-efficiency Pareto -> results/tables/rq4_*
+python scripts/midterm_multiseed.py    # Midterm E1-E3 re-answered over 3 seeds -> results/tables/midterm_ms_*
+python scripts/build_presentation.py   # Midterm slides (.pptx) and Vietnamese speaker script, written next to this repo
+```
+
+Final report: [docs/final_report.md](docs/final_report.md). Corruption parameters: `robustness:` in `configs/default.yaml`; code: `src/perturb.py`.
+
+**Midterm numbers: Colab vs local.** The first Midterm run (Colab T4, seed 42 only) is archived in `results/colab_seed42/`
+(logs, predictions, tables). Checkpoints of that run were not kept, so all three seeds were re-trained locally
+(RTX 2060 SUPER, torch 2.14.0+cu126). The tables under `results/` now describe the local runs; with three seeds the
+Colab model ranking does not replicate (see `docs/final_report.md`, section 5.1).
+
+The same steps as notebooks (Colab or local Jupyter), one per stage. They are generated from the `.py` files by
+`python scripts/build_notebooks.py`; edit the `.py` file and rebuild rather than editing a notebook.
+
+| notebook | covers |
+|---|---|
+| `notebooks/01_data_prep.ipynb` | step 1: download, index, split check, waveform cache |
+| `notebooks/02_eda.ipynb` | `eda.py`, `eda_quality.py` |
+| `notebooks/03_train_colab.ipynb` | step 2–3: `src/train.py` for each model and seed, `src/evaluate.py` |
+| `notebooks/04_results_midterm.ipynb` | `make_baseline_table.py`, `plot_metrics.py`, `leakage_sensitivity.py`, `midterm_questions.py` |
 
 Environment overrides: `ATI_CONFIG=<yaml>` selects another config, `ATI_RESULTS=<dir>` redirects all outputs.
 
@@ -61,7 +90,9 @@ Training: AdamW, cosine schedule with warmup, class-weighted cross-entropy, AMP 
 
 ## Results (Midterm, seed 42, clean test set)
 
-Dataset analysis (part A, with the waveform / STFT / log-Mel theory): [docs/dataset_analysis.md](docs/dataset_analysis.md).
+Dataset analysis (part A, with the waveform / STFT / log-Mel theory and data-quality checks): [docs/dataset_analysis.md](docs/dataset_analysis.md).
+Answers to the Midterm questions E1–E4: [docs/midterm_answers.md](docs/midterm_answers.md).
+Proposed Final research question: [docs/final_rq_proposal.md](docs/final_rq_proposal.md).
 
 Baselines ([results/tables/midterm_baselines.csv](results/tables/midterm_baselines.csv)); checkpoints selected on
 validation macro-F1, test reported once:
@@ -77,6 +108,8 @@ Latency is the median of 200 batch-1 runs on a T4, including log-Mel extraction.
 [results/figures/test_per_class_f1.png](results/figures/test_per_class_f1.png). Row-normalized confusion matrices:
 `results/figures/confusion_{small_cnn,mobilenetv3s,crnn}.png` (raw counts are in the JSON logs).
 These are single-seed results; seeds 43 and 44 are planned before drawing model-ranking conclusions.
+Two test clips share audio with train clips (a prefix and a 4.8 s shared start, not caught by the md5 grouping);
+removing them changes test macro-F1 by at most 0.0014 ([results/tables/midterm_leakage_sensitivity.csv](results/tables/midterm_leakage_sensitivity.csv)). The split stays fixed.
 
 Environment: Colab T4, Python 3.13, torch 2.11.0+cu130, torchaudio 2.11.0, scikit-learn 1.6.1; seed 42.
 Each JSON log records the exact package versions, GPU, config and split md5.
@@ -96,7 +129,10 @@ configs/    default.yaml, classes.json
 splits/     train.csv, val.csv, test.csv, split_meta.json   (fixed; never regenerate)
 src/        features.py, data.py, train.py, evaluate.py, metrics.py, utils.py, models/
 scripts/    data prep: download_data.py, build_index.py, make_splits.py, cache_waveforms.py
-            analysis:  eda.py, make_baseline_table.py, plot_metrics.py
-docs/       dataset_analysis.md
+            analysis:  eda.py, eda_quality.py, make_baseline_table.py, plot_metrics.py,
+                       leakage_sensitivity.py, midterm_questions.py
+            notebooks: build_notebooks.py
+notebooks/  01_data_prep, 02_eda, 03_train_colab, 04_results_midterm   (generated from the .py files)
+docs/       dataset_analysis.md, midterm_answers.md, final_rq_proposal.md
 results/    predictions/, logs/, tables/, figures/, logmel_stats.json
 ```

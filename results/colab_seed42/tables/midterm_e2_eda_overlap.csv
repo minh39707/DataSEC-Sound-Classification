@@ -1,0 +1,232 @@
+A,B,cosine,small_cnn_errors,mobilenetv3s_errors,crnn_errors
+Jet aircrafts,Propeller aircrafts,0.9921246,2,4,5
+Propeller aircrafts,Train,0.987751,2,3,1
+Glass breaking,Workshop,0.98173827,0,0,0
+Jet aircrafts,Train,0.9764954,2,3,3
+Train,Vehicle pass-by,0.96364087,2,1,1
+Propeller aircrafts,Vehicle pass-by,0.96276003,1,0,1
+Glass breaking,Horn,0.94170177,0,0,0
+Jet aircrafts,Vehicle pass-by,0.9388817,2,2,4
+Train,Wind turbine,0.9324654,0,0,0
+Horn,Workshop,0.9265427,0,0,0
+Birds,Workshop,0.92152154,0,1,0
+Propeller aircrafts,Wind turbine,0.9200811,0,0,1
+Birds,Cicadas and crickets,0.9174416,0,0,0
+Vehicle pass-by,Wind turbine,0.91260034,0,0,0
+Cicadas and crickets,Glass breaking,0.91182613,0,0,0
+Cicadas and crickets,Workshop,0.90106684,0,0,0
+Jet aircrafts,Wind turbine,0.8995129,1,1,0
+Birds,Glass breaking,0.89026046,0,0,0
+Lawn mower brush cutter and olive shaker,Thunder fireworks and gunshot,0.8804698,0,0,0
+Cat fights and moans,Crows seagulls and magpies,0.8687506,0,0,0
+Cicadas and crickets,Voices,0.85014915,0,0,0
+Music,Vehicle idling,0.8446671,0,0,1
+Music,Train,0.8330076,0,0,0
+Glass breaking,Voices,0.82585806,0,0,1
+Music,Vehicle pass-by,0.8213835,0,0,0
+Birds,Horn,0.8170099,0,0,0
+Music,Propeller aircrafts,0.8159707,1,2,0
+Cat fights and moans,Sirens and alarms,0.81434345,0,1,0
+Cicadas and crickets,Horn,0.81205404,0,0,0
+Crows seagulls and magpies,Sirens and alarms,0.8092608,1,1,1
+Music,Wind turbine,0.8083914,0,0,0
+Horn,Voices,0.7864806,0,2,1
+Vehicle idling,Wind turbine,0.7842751,0,0,0
+Voices,Workshop,0.7746245,0,0,0
+Horn,Vacuum cleaner fan and hairdryer,0.76660347,0,0,0
+Vehicle idling,Vehicle pass-by,0.76379275,2,0,1
+Jet aircrafts,Music,0.74844265,0,0,0
+Glass breaking,Vacuum cleaner fan and hairdryer,0.7385853,0,0,0
+Vacuum cleaner fan and hairdryer,Workshop,0.7330738,2,2,8
+Chicken coop,Dog barkings and howlings,0.73282593,0,1,1
+Chicken coop,Sirens and alarms,0.7285028,0,0,1
+Train,Vehicle idling,0.6961088,0,1,0
+Birds,Voices,0.69391716,0,0,0
+Propeller aircrafts,Vehicle idling,0.65152776,0,0,2
+Cat fights and moans,Chicken coop,0.6284048,0,0,0
+Vacuum cleaner fan and hairdryer,Voices,0.61146116,0,0,0
+Dog barkings and howlings,Vacuum cleaner fan and hairdryer,0.576837,0,0,0
+Jet aircrafts,Vehicle idling,0.5737076,0,0,0
+Birds,Vacuum cleaner fan and hairdryer,0.5608814,0,0,0
+Cicadas and crickets,Vacuum cleaner fan and hairdryer,0.5428312,0,0,0
+Lawn mower brush cutter and olive shaker,Vehicle idling,0.45733553,3,2,6
+Chicken coop,Crows seagulls and magpies,0.45577586,1,0,0
+Thunder fireworks and gunshot,Voices,0.4515342,0,0,0
+Thunder fireworks and gunshot,Vehicle idling,0.40609637,0,0,1
+Chicken coop,Vacuum cleaner fan and hairdryer,0.4037602,0,0,0
+Bells,Crows seagulls and magpies,0.3781358,0,0,0
+Lawn mower brush cutter and olive shaker,Wind turbine,0.34708142,0,0,0
+Bells,Cat fights and moans,0.34076875,0,0,0
+Lawn mower brush cutter and olive shaker,Vehicle pass-by,0.29372758,2,3,1
+Lawn mower brush cutter and olive shaker,Voices,0.28817987,0,0,0
+Lawn mower brush cutter and olive shaker,Music,0.28192165,0,2,0
+Dog barkings and howlings,Sirens and alarms,0.26641637,0,0,0
+Thunder fireworks and gunshot,Wind turbine,0.26431406,0,0,0
+Bells,Sirens and alarms,0.25276473,0,0,3
+Crows seagulls and magpies,Workshop,0.25205752,0,0,1
+Cat fights and moans,Dog barkings and howlings,0.23946598,0,0,0
+Birds,Crows seagulls and magpies,0.21752135,0,1,0
+Crows seagulls and magpies,Glass breaking,0.20400189,0,0,0
+Cicadas and crickets,Thunder fireworks and gunshot,0.19940212,0,0,0
+Lawn mower brush cutter and olive shaker,Train,0.19116394,0,0,1
+Crows seagulls and magpies,Horn,0.18374133,0,0,0
+Lawn mower brush cutter and olive shaker,Propeller aircrafts,0.1711519,0,0,0
+Dog barkings and howlings,Horn,0.15309152,0,0,0
+Dog barkings and howlings,Thunder fireworks and gunshot,0.1503138,0,0,0
+Jet aircrafts,Lawn mower brush cutter and olive shaker,0.14083748,0,0,0
+Thunder fireworks and gunshot,Vehicle pass-by,0.13843746,1,1,1
+Sirens and alarms,Vacuum cleaner fan and hairdryer,0.12839574,0,0,0
+Thunder fireworks and gunshot,Vacuum cleaner fan and hairdryer,0.12664793,0,1,0
+Bells,Chicken coop,0.11685357,0,0,0
+Bells,Birds,0.113679126,0,0,0
+Sirens and alarms,Workshop,0.109050706,0,0,0
+Cat fights and moans,Jet aircrafts,0.105223,0,0,0
+Bells,Vacuum cleaner fan and hairdryer,0.10004237,0,0,0
+Horn,Sirens and alarms,0.079354,0,0,0
+Bells,Workshop,0.0744149,0,0,0
+Dog barkings and howlings,Lawn mower brush cutter and olive shaker,0.074057184,0,0,0
+Chicken coop,Horn,0.06836427,0,0,0
+Birds,Sirens and alarms,0.06619735,0,0,0
+Cicadas and crickets,Lawn mower brush cutter and olive shaker,0.061043683,0,0,0
+Music,Thunder fireworks and gunshot,0.058080766,0,0,0
+Glass breaking,Sirens and alarms,0.05431998,0,0,0
+Dog barkings and howlings,Jet aircrafts,0.04234362,0,0,0
+Glass breaking,Thunder fireworks and gunshot,0.04211978,0,1,0
+Bells,Jet aircrafts,0.03990807,0,0,0
+Thunder fireworks and gunshot,Train,0.039376337,1,0,1
+Dog barkings and howlings,Glass breaking,0.03898835,0,0,0
+Chicken coop,Glass breaking,0.033996366,0,0,0
+Cat fights and moans,Propeller aircrafts,0.032941625,0,0,0
+Bells,Horn,0.032770433,0,0,1
+Lawn mower brush cutter and olive shaker,Vacuum cleaner fan and hairdryer,0.02360868,2,0,2
+Chicken coop,Workshop,0.0222008,0,0,0
+Dog barkings and howlings,Workshop,0.011762841,0,0,0
+Crows seagulls and magpies,Vacuum cleaner fan and hairdryer,0.008832063,0,0,0
+Cat fights and moans,Train,0.0079985345,0,0,0
+Bells,Glass breaking,0.005042661,0,0,0
+Bells,Propeller aircrafts,0.0043649636,0,0,0
+Horn,Thunder fireworks and gunshot,0.0008030219,1,0,0
+Propeller aircrafts,Thunder fireworks and gunshot,-0.0035593158,0,0,0
+Chicken coop,Jet aircrafts,-0.004579091,0,0,0
+Bells,Dog barkings and howlings,-0.012020002,0,0,0
+Bells,Train,-0.018082628,0,0,0
+Jet aircrafts,Thunder fireworks and gunshot,-0.023206249,0,0,1
+Crows seagulls and magpies,Dog barkings and howlings,-0.025735741,0,0,0
+Cat fights and moans,Horn,-0.029555969,0,0,0
+Cat fights and moans,Vacuum cleaner fan and hairdryer,-0.03073975,0,0,0
+Cicadas and crickets,Crows seagulls and magpies,-0.031644337,0,0,0
+Dog barkings and howlings,Voices,-0.031746022,1,2,0
+Thunder fireworks and gunshot,Workshop,-0.04771267,0,1,0
+Dog barkings and howlings,Propeller aircrafts,-0.058346752,0,0,0
+Jet aircrafts,Sirens and alarms,-0.060473513,0,0,0
+Cat fights and moans,Workshop,-0.060522843,1,0,0
+Cat fights and moans,Glass breaking,-0.07550888,0,0,0
+Cat fights and moans,Vehicle pass-by,-0.079162166,0,0,0
+Bells,Music,-0.08404639,1,2,4
+Chicken coop,Propeller aircrafts,-0.094261646,0,0,0
+Dog barkings and howlings,Wind turbine,-0.09737848,0,0,0
+Dog barkings and howlings,Train,-0.10218641,0,0,0
+Bells,Vehicle pass-by,-0.1119005,0,0,0
+Propeller aircrafts,Sirens and alarms,-0.11723572,0,0,0
+Dog barkings and howlings,Vehicle pass-by,-0.119180284,0,0,0
+Glass breaking,Lawn mower brush cutter and olive shaker,-0.12813781,0,0,0
+Birds,Chicken coop,-0.13011658,0,0,0
+Chicken coop,Train,-0.13391872,0,0,0
+Bells,Voices,-0.1344881,0,0,0
+Bells,Cicadas and crickets,-0.13868415,0,0,0
+Birds,Cat fights and moans,-0.15174742,0,0,0
+Horn,Lawn mower brush cutter and olive shaker,-0.15280227,0,0,0
+Birds,Thunder fireworks and gunshot,-0.15283479,0,0,0
+Lawn mower brush cutter and olive shaker,Workshop,-0.17086124,0,2,0
+Sirens and alarms,Train,-0.1720773,0,0,0
+Chicken coop,Vehicle pass-by,-0.17271817,0,0,0
+Cat fights and moans,Wind turbine,-0.19911186,0,0,0
+Crows seagulls and magpies,Jet aircrafts,-0.20393476,0,0,0
+Cicadas and crickets,Sirens and alarms,-0.20554745,0,0,0
+Chicken coop,Wind turbine,-0.2072745,0,0,0
+Sirens and alarms,Vehicle pass-by,-0.21383974,0,0,0
+Birds,Lawn mower brush cutter and olive shaker,-0.23196116,0,0,0
+Crows seagulls and magpies,Propeller aircrafts,-0.24362192,0,0,0
+Bells,Wind turbine,-0.24689728,0,0,0
+Cicadas and crickets,Dog barkings and howlings,-0.25597662,0,0,0
+Birds,Dog barkings and howlings,-0.26397756,0,0,0
+Crows seagulls and magpies,Train,-0.27152416,0,0,1
+Cat fights and moans,Music,-0.2729396,0,0,0
+Crows seagulls and magpies,Voices,-0.28244883,0,0,1
+Chicken coop,Cicadas and crickets,-0.2834827,0,0,0
+Chicken coop,Voices,-0.30861637,0,0,1
+Cicadas and crickets,Vehicle idling,-0.3205276,0,0,0
+Crows seagulls and magpies,Music,-0.33312178,0,0,0
+Sirens and alarms,Wind turbine,-0.34040326,0,0,0
+Crows seagulls and magpies,Vehicle pass-by,-0.3427677,0,0,0
+Vehicle idling,Voices,-0.3451138,0,0,0
+Music,Sirens and alarms,-0.3575818,1,1,2
+Bells,Lawn mower brush cutter and olive shaker,-0.36844206,0,0,0
+Chicken coop,Thunder fireworks and gunshot,-0.3700312,0,0,0
+Cat fights and moans,Cicadas and crickets,-0.37499014,0,0,0
+Sirens and alarms,Voices,-0.41710788,0,0,0
+Cat fights and moans,Vehicle idling,-0.4338593,0,0,0
+Bells,Vehicle idling,-0.43655068,0,0,0
+Chicken coop,Lawn mower brush cutter and olive shaker,-0.4661381,0,0,0
+Crows seagulls and magpies,Wind turbine,-0.46628675,0,0,0
+Crows seagulls and magpies,Vehicle idling,-0.49252924,0,0,1
+Dog barkings and howlings,Vehicle idling,-0.5063229,0,0,0
+Cat fights and moans,Voices,-0.5064491,0,0,0
+Bells,Thunder fireworks and gunshot,-0.5122232,0,0,0
+Birds,Vehicle idling,-0.51785904,0,0,0
+Chicken coop,Music,-0.5279141,0,0,0
+Cicadas and crickets,Music,-0.53106296,0,0,0
+Dog barkings and howlings,Music,-0.5341924,0,0,1
+Music,Voices,-0.53500754,0,0,0
+Sirens and alarms,Vehicle idling,-0.53734773,0,0,0
+Chicken coop,Vehicle idling,-0.5649491,0,0,0
+Birds,Music,-0.5749555,0,0,1
+Voices,Wind turbine,-0.57819337,0,0,0
+Glass breaking,Vehicle idling,-0.6412233,1,1,0
+Vehicle idling,Workshop,-0.66468465,2,3,2
+Jet aircrafts,Vacuum cleaner fan and hairdryer,-0.6853686,0,0,0
+Horn,Vehicle idling,-0.71809417,0,0,0
+Propeller aircrafts,Vacuum cleaner fan and hairdryer,-0.7414545,0,1,0
+Vacuum cleaner fan and hairdryer,Wind turbine,-0.74443525,0,0,0
+Vehicle pass-by,Voices,-0.74836546,0,0,0
+Cat fights and moans,Thunder fireworks and gunshot,-0.7524644,0,0,0
+Vacuum cleaner fan and hairdryer,Vehicle pass-by,-0.7552355,0,0,0
+Train,Vacuum cleaner fan and hairdryer,-0.76007694,2,2,1
+Cicadas and crickets,Wind turbine,-0.7601886,0,0,0
+Train,Voices,-0.7602037,0,0,0
+Music,Workshop,-0.76560926,0,0,1
+Cat fights and moans,Lawn mower brush cutter and olive shaker,-0.7720817,0,0,0
+Propeller aircrafts,Voices,-0.7845001,0,0,0
+Sirens and alarms,Thunder fireworks and gunshot,-0.790821,0,0,0
+Lawn mower brush cutter and olive shaker,Sirens and alarms,-0.79334354,0,0,0
+Jet aircrafts,Voices,-0.7949021,0,0,0
+Vacuum cleaner fan and hairdryer,Vehicle idling,-0.7950786,3,1,4
+Glass breaking,Music,-0.80119324,0,0,0
+Cicadas and crickets,Vehicle pass-by,-0.8037308,0,0,0
+Horn,Music,-0.8200568,0,0,0
+Music,Vacuum cleaner fan and hairdryer,-0.8336694,0,1,0
+Birds,Vehicle pass-by,-0.8430799,0,1,0
+Crows seagulls and magpies,Thunder fireworks and gunshot,-0.8540634,1,0,0
+Crows seagulls and magpies,Lawn mower brush cutter and olive shaker,-0.8569297,0,0,0
+Birds,Wind turbine,-0.8661648,0,0,0
+Horn,Wind turbine,-0.8694436,0,0,0
+Cicadas and crickets,Train,-0.87181824,0,0,0
+Birds,Train,-0.8817335,0,0,0
+Birds,Propeller aircrafts,-0.88841903,0,0,0
+Cicadas and crickets,Propeller aircrafts,-0.9006208,0,0,0
+Glass breaking,Wind turbine,-0.91112834,0,0,0
+Horn,Jet aircrafts,-0.9161578,0,0,0
+Birds,Jet aircrafts,-0.9208013,0,0,0
+Horn,Propeller aircrafts,-0.933398,0,0,0
+Horn,Vehicle pass-by,-0.93514204,0,0,1
+Horn,Train,-0.94056773,0,0,0
+Cicadas and crickets,Jet aircrafts,-0.94213676,0,0,0
+Wind turbine,Workshop,-0.9424422,0,0,0
+Vehicle pass-by,Workshop,-0.9546223,2,3,1
+Glass breaking,Vehicle pass-by,-0.9596148,1,0,0
+Jet aircrafts,Workshop,-0.9773982,0,0,0
+Train,Workshop,-0.9784752,1,0,0
+Propeller aircrafts,Workshop,-0.97970605,0,0,0
+Glass breaking,Train,-0.9820967,0,0,0
+Glass breaking,Jet aircrafts,-0.9892097,0,0,0
+Glass breaking,Propeller aircrafts,-0.99508065,0,0,0

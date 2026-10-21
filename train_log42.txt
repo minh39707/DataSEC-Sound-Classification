@@ -1,0 +1,128 @@
+### small_cnn 42
+[small_cnn s42] ep   1 loss 2.7744 val_acc 0.3786 val_f1 0.3017 (26s) *
+[small_cnn s42] ep   2 loss 1.8235 val_acc 0.6570 val_f1 0.4324 (3s) *
+[small_cnn s42] ep   3 loss 1.4516 val_acc 0.7718 val_f1 0.5745 (3s) *
+[small_cnn s42] ep   4 loss 1.2464 val_acc 0.5251 val_f1 0.5118 (3s)
+[small_cnn s42] ep   5 loss 1.0956 val_acc 0.7098 val_f1 0.5905 (3s) *
+[small_cnn s42] ep   6 loss 1.0093 val_acc 0.7836 val_f1 0.6260 (3s) *
+[small_cnn s42] ep   7 loss 0.9429 val_acc 0.8430 val_f1 0.6849 (3s) *
+[small_cnn s42] ep   8 loss 0.8507 val_acc 0.8404 val_f1 0.6949 (3s) *
+[small_cnn s42] ep   9 loss 0.7479 val_acc 0.8786 val_f1 0.7440 (4s) *
+[small_cnn s42] ep  10 loss 0.7006 val_acc 0.8562 val_f1 0.7359 (3s)
+[small_cnn s42] ep  11 loss 0.7043 val_acc 0.6240 val_f1 0.5870 (3s)
+[small_cnn s42] ep  12 loss 0.6681 val_acc 0.7770 val_f1 0.6489 (3s)
+[small_cnn s42] ep  13 loss 0.6272 val_acc 0.8734 val_f1 0.7573 (3s) *
+[small_cnn s42] ep  14 loss 0.5982 val_acc 0.8536 val_f1 0.7477 (3s)
+[small_cnn s42] ep  15 loss 0.5759 val_acc 0.8799 val_f1 0.7807 (3s) *
+[small_cnn s42] ep  16 loss 0.5131 val_acc 0.8549 val_f1 0.7762 (3s)
+[small_cnn s42] ep  17 loss 0.5073 val_acc 0.8628 val_f1 0.7048 (3s)
+[small_cnn s42] ep  18 loss 0.4762 val_acc 0.8734 val_f1 0.7651 (3s)
+[small_cnn s42] ep  19 loss 0.4838 val_acc 0.8852 val_f1 0.7779 (3s)
+[small_cnn s42] ep  20 loss 0.4286 val_acc 0.8681 val_f1 0.7316 (3s)
+[small_cnn s42] ep  21 loss 0.4529 val_acc 0.7744 val_f1 0.6637 (3s)
+[small_cnn s42] ep  22 loss 0.4422 val_acc 0.8971 val_f1 0.7979 (3s) *
+[small_cnn s42] ep  23 loss 0.3889 val_acc 0.9037 val_f1 0.7898 (3s)
+[small_cnn s42] ep  24 loss 0.3855 val_acc 0.9050 val_f1 0.8192 (3s) *
+[small_cnn s42] ep  25 loss 0.3527 val_acc 0.8958 val_f1 0.7987 (3s)
+[small_cnn s42] ep  26 loss 0.3455 val_acc 0.8945 val_f1 0.7753 (3s)
+[small_cnn s42] ep  27 loss 0.3655 val_acc 0.9116 val_f1 0.8216 (3s) *
+[small_cnn s42] ep  28 loss 0.3127 val_acc 0.8945 val_f1 0.7681 (3s)
+[small_cnn s42] ep  29 loss 0.3275 val_acc 0.9011 val_f1 0.7970 (3s)
+[small_cnn s42] ep  30 loss 0.3270 val_acc 0.9090 val_f1 0.8180 (3s)
+[small_cnn s42] ep  31 loss 0.2788 val_acc 0.8958 val_f1 0.8030 (3s)
+[small_cnn s42] ep  32 loss 0.2744 val_acc 0.9142 val_f1 0.8329 (3s) *
+[small_cnn s42] ep  33 loss 0.2621 val_acc 0.8694 val_f1 0.7313 (3s)
+[small_cnn s42] ep  34 loss 0.2482 val_acc 0.9077 val_f1 0.8096 (3s)
+[small_cnn s42] ep  35 loss 0.2413 val_acc 0.9235 val_f1 0.8436 (3s) *
+[small_cnn s42] ep  36 loss 0.2653 val_acc 0.9050 val_f1 0.8162 (3s)
+[small_cnn s42] ep  37 loss 0.2487 val_acc 0.9182 val_f1 0.8287 (3s)
+[small_cnn s42] ep  38 loss 0.2296 val_acc 0.9156 val_f1 0.8225 (3s)
+[small_cnn s42] ep  39 loss 0.2217 val_acc 0.9274 val_f1 0.8467 (3s) *
+[small_cnn s42] ep  40 loss 0.2133 val_acc 0.9222 val_f1 0.8375 (3s)
+[small_cnn s42] ep  41 loss 0.2128 val_acc 0.9208 val_f1 0.8387 (3s)
+[small_cnn s42] ep  42 loss 0.2144 val_acc 0.9195 val_f1 0.8382 (3s)
+[small_cnn s42] ep  43 loss 0.2065 val_acc 0.9314 val_f1 0.8562 (3s) *
+[small_cnn s42] ep  44 loss 0.1893 val_acc 0.9288 val_f1 0.8525 (3s)
+[small_cnn s42] ep  45 loss 0.2087 val_acc 0.9301 val_f1 0.8518 (3s)
+[small_cnn s42] ep  46 loss 0.1878 val_acc 0.9301 val_f1 0.8524 (3s)
+[small_cnn s42] ep  47 loss 0.1861 val_acc 0.9288 val_f1 0.8490 (3s)
+[small_cnn s42] ep  48 loss 0.1822 val_acc 0.9314 val_f1 0.8575 (3s) *
+[small_cnn s42] ep  49 loss 0.1940 val_acc 0.9301 val_f1 0.8545 (3s)
+[small_cnn s42] ep  50 loss 0.1829 val_acc 0.9327 val_f1 0.8605 (3s) *
+[small_cnn s42] best ep 50  val F1 0.8605  test acc 0.9340 test F1 0.8783  params 393,974  MACs 198.4M  lat 1.17 ms  time 3.2 min
+### mobilenetv3s 42
+C:\ATI\DataSEC-Sound-Classification-main\src\train.py:109: UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in the opposite order: `optimizer.step()` before `lr_scheduler.step()`.  Failure to do this will result in PyTorch skipping the first value of the learning rate schedule. See more details at https://pytorch.org/docs/stable/optim.html#how-to-adjust-learning-rate
+  sched.step()
+[mobilenetv3s s42] ep   1 loss 2.9730 val_acc 0.0976 val_f1 0.1163 (64s) *
+[mobilenetv3s s42] ep   2 loss 1.7259 val_acc 0.5435 val_f1 0.4074 (4s) *
+[mobilenetv3s s42] ep   3 loss 0.8809 val_acc 0.7203 val_f1 0.5947 (3s) *
+[mobilenetv3s s42] ep   4 loss 0.5432 val_acc 0.7955 val_f1 0.6643 (3s) *
+[mobilenetv3s s42] ep   5 loss 0.4585 val_acc 0.7942 val_f1 0.6849 (3s) *
+[mobilenetv3s s42] ep   6 loss 0.3704 val_acc 0.8522 val_f1 0.7429 (3s) *
+[mobilenetv3s s42] ep   7 loss 0.3177 val_acc 0.8760 val_f1 0.7686 (3s) *
+[mobilenetv3s s42] ep   8 loss 0.2736 val_acc 0.8694 val_f1 0.7220 (3s)
+[mobilenetv3s s42] ep   9 loss 0.2308 val_acc 0.9024 val_f1 0.8158 (4s) *
+[mobilenetv3s s42] ep  10 loss 0.1907 val_acc 0.8984 val_f1 0.8065 (4s)
+[mobilenetv3s s42] ep  11 loss 0.2151 val_acc 0.9024 val_f1 0.8278 (4s) *
+[mobilenetv3s s42] ep  12 loss 0.1740 val_acc 0.8984 val_f1 0.8149 (3s)
+[mobilenetv3s s42] ep  13 loss 0.1402 val_acc 0.9156 val_f1 0.8439 (3s) *
+[mobilenetv3s s42] ep  14 loss 0.1360 val_acc 0.9222 val_f1 0.8521 (4s) *
+[mobilenetv3s s42] ep  15 loss 0.1660 val_acc 0.9169 val_f1 0.8415 (3s)
+[mobilenetv3s s42] ep  16 loss 0.1153 val_acc 0.9156 val_f1 0.8446 (3s)
+[mobilenetv3s s42] ep  17 loss 0.1175 val_acc 0.9301 val_f1 0.8719 (3s) *
+[mobilenetv3s s42] ep  18 loss 0.0996 val_acc 0.9156 val_f1 0.8458 (3s)
+[mobilenetv3s s42] ep  19 loss 0.1140 val_acc 0.9195 val_f1 0.8398 (3s)
+[mobilenetv3s s42] ep  20 loss 0.0942 val_acc 0.9314 val_f1 0.8640 (3s)
+[mobilenetv3s s42] ep  21 loss 0.0840 val_acc 0.9301 val_f1 0.8717 (3s)
+[mobilenetv3s s42] ep  22 loss 0.0783 val_acc 0.9248 val_f1 0.8597 (3s)
+[mobilenetv3s s42] ep  23 loss 0.0736 val_acc 0.9274 val_f1 0.8660 (3s)
+[mobilenetv3s s42] ep  24 loss 0.0816 val_acc 0.9301 val_f1 0.8707 (3s)
+[mobilenetv3s s42] ep  25 loss 0.1008 val_acc 0.9314 val_f1 0.8604 (3s)
+early stop at epoch 25
+[mobilenetv3s s42] best ep 17  val F1 0.8719  test acc 0.9301 test F1 0.8698  params 1,540,406  MACs 18.1M  lat 6.02 ms  time 2.5 min
+### crnn 42
+[crnn s42] ep   1 loss 2.5346 val_acc 0.3734 val_f1 0.3214 (27s) *
+[crnn s42] ep   2 loss 1.5437 val_acc 0.6042 val_f1 0.3619 (3s) *
+[crnn s42] ep   3 loss 1.1551 val_acc 0.7507 val_f1 0.6060 (3s) *
+[crnn s42] ep   4 loss 1.0075 val_acc 0.6900 val_f1 0.6111 (3s) *
+[crnn s42] ep   5 loss 0.8493 val_acc 0.8113 val_f1 0.6525 (3s) *
+[crnn s42] ep   6 loss 0.7610 val_acc 0.8575 val_f1 0.7093 (3s) *
+[crnn s42] ep   7 loss 0.6553 val_acc 0.8311 val_f1 0.7009 (3s)
+[crnn s42] ep   8 loss 0.6133 val_acc 0.8760 val_f1 0.7543 (3s) *
+[crnn s42] ep   9 loss 0.5803 val_acc 0.8760 val_f1 0.7522 (4s)
+[crnn s42] ep  10 loss 0.5323 val_acc 0.8654 val_f1 0.7534 (3s)
+[crnn s42] ep  11 loss 0.4571 val_acc 0.8839 val_f1 0.7802 (3s) *
+[crnn s42] ep  12 loss 0.4395 val_acc 0.8628 val_f1 0.7475 (3s)
+[crnn s42] ep  13 loss 0.4061 val_acc 0.8931 val_f1 0.7949 (3s) *
+[crnn s42] ep  14 loss 0.3261 val_acc 0.8892 val_f1 0.7928 (3s)
+[crnn s42] ep  15 loss 0.3205 val_acc 0.8958 val_f1 0.8090 (3s) *
+[crnn s42] ep  16 loss 0.3341 val_acc 0.8694 val_f1 0.8027 (3s)
+[crnn s42] ep  17 loss 0.2806 val_acc 0.8879 val_f1 0.7786 (3s)
+[crnn s42] ep  18 loss 0.3282 val_acc 0.8747 val_f1 0.7782 (3s)
+[crnn s42] ep  19 loss 0.2923 val_acc 0.8483 val_f1 0.7397 (3s)
+[crnn s42] ep  20 loss 0.2721 val_acc 0.8668 val_f1 0.7829 (3s)
+[crnn s42] ep  21 loss 0.2356 val_acc 0.9103 val_f1 0.8222 (3s) *
+[crnn s42] ep  22 loss 0.2042 val_acc 0.9103 val_f1 0.8199 (3s)
+[crnn s42] ep  23 loss 0.2043 val_acc 0.9103 val_f1 0.8238 (3s) *
+[crnn s42] ep  24 loss 0.1807 val_acc 0.9208 val_f1 0.8371 (4s) *
+[crnn s42] ep  25 loss 0.2066 val_acc 0.9182 val_f1 0.8426 (3s) *
+[crnn s42] ep  26 loss 0.1726 val_acc 0.9261 val_f1 0.8477 (3s) *
+[crnn s42] ep  27 loss 0.1695 val_acc 0.9077 val_f1 0.8299 (3s)
+[crnn s42] ep  28 loss 0.1508 val_acc 0.8931 val_f1 0.7968 (3s)
+[crnn s42] ep  29 loss 0.1677 val_acc 0.9235 val_f1 0.8512 (3s) *
+[crnn s42] ep  30 loss 0.1518 val_acc 0.9156 val_f1 0.8218 (3s)
+[crnn s42] ep  31 loss 0.1367 val_acc 0.9103 val_f1 0.8188 (3s)
+[crnn s42] ep  32 loss 0.1024 val_acc 0.9261 val_f1 0.8575 (3s) *
+[crnn s42] ep  33 loss 0.1083 val_acc 0.9182 val_f1 0.8432 (4s)
+[crnn s42] ep  34 loss 0.1170 val_acc 0.9327 val_f1 0.8688 (3s) *
+[crnn s42] ep  35 loss 0.0952 val_acc 0.9235 val_f1 0.8498 (3s)
+[crnn s42] ep  36 loss 0.1009 val_acc 0.9222 val_f1 0.8344 (3s)
+[crnn s42] ep  37 loss 0.1020 val_acc 0.9195 val_f1 0.8353 (3s)
+[crnn s42] ep  38 loss 0.0786 val_acc 0.9182 val_f1 0.8387 (3s)
+[crnn s42] ep  39 loss 0.0776 val_acc 0.9235 val_f1 0.8477 (3s)
+[crnn s42] ep  40 loss 0.0814 val_acc 0.9301 val_f1 0.8608 (4s)
+[crnn s42] ep  41 loss 0.0817 val_acc 0.9261 val_f1 0.8571 (3s)
+[crnn s42] ep  42 loss 0.0624 val_acc 0.9314 val_f1 0.8636 (3s)
+early stop at epoch 42
+[crnn s42] best ep 34  val F1 0.8688  test acc 0.9301 test F1 0.8720  params 868,822  MACs 486.6M  lat 1.47 ms  time 2.8 min
+ALLDONE42
